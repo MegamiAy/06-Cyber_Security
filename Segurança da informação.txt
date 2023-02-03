@@ -880,3 +880,115 @@ Aula 15:
 Token gerador de senhas
 
 Chave eletrônica
+Tipo de dispositivo eletrônico que gera códigos usados na verificação da sua identidade
+
+Cada código é válido por um determinado período
+
+Cuidados a serem tomados
+guarde seu token em um local seguro
+nunca informe o código mostrado no token por e-mail ou telefone
+caso perca seu token ou ele seja furtado
+avise imediatamente o responsável pelo serviço no qual ele é usado
+
+Cartão de segurança
+
+Cartão com diversos códigos numerados e que são solicitados quando você acessa a sua conta
+
+Cuidados a serem tomados
+guarde seu cartão em um local seguro
+nunca forneça os códigos do cartão por e-mail ou telefone
+forneça apenas uma posição do seu cartão a cada acesso
+verifique se o número de identificação do cartão
+
+Aula 16:
+* Dispositivos Confiáveis
+
+Computador ou dispositivo móvel usado para acessar suas contas
+
+No primeiro acesso
+pode ser necessário inserir um código de segurança
+ele não será necessário nos demais acessos, pois seu dispositivo será lembrado
+
+Cuidados a serem tomados:
+não esqueça de excluir seus dispositivos confiáveis caso eles sejam trocados ou você perca
+
+
+Lista de códigos reserva/backup
+
+Lista de códigos que devem ser usados de forma sequencial e uma única vez
+
+Cuidados a serem tomados
+anote ou imprima a lista e a mantenha em um local seguro
+não armazene em seus dispositivo confiável pois ela poderá vir a ser acessada por atacantes
+caso não esteja criptografada
+caso perca a lista ou desconfie que alguém a acessou você deve gerá-la novamente ou revogá-la
+anulando assim a anterior
+
+Chave de recuperação
+
+Número gerado pelo serviço quando você ativa a verificação em duas etapas
+
+Permite que você acesse o serviço mesmo que perca sua senha ou seus dispositivos confiáveis
+
+Cuidados a serem tomados
+anote ou imprima...
+não a deixe no dispositivo confiável
+caso perca gere ela novamente
+
+Módulo 02
+ 
+Aula 01:
+*  O que é privacidade
+
+Sua privacidade pode ser exposta na Internet
+independentemente da sua vontade
+sem aviso ou consentimento prévio, quando
+alguém
+divulga informações sobre você
+divulga imagens onde você está presente
+um site
+altera as políticas de privacidade
+coleta hábitos e preferências de navegação e repassa a terceiros
+um impostor
+criar uma conta/perfil em seu nome e a usa para se passar por você
+
+um atacante e/ou código malicioso
+acessa dados que você digita
+acessa dados armazenados em seu computador
+invade um conta sua e acessa informações restritas
+invade um computador no qual seus dados estão armazenados
+coleta informações não criptografadas que trafegam na rede
+um aplicativo instalado em seu computador/dispositivo móvel
+coleta dados pessoais e os envia ao desenvolvedor/fabricante
+você
+compartilha recursos do seu computador
+sem configurar restrições de acesso adequadas
+elaborar senhas fracas
+facilitando a invasão de suas contas
+acessar suas contas em computadores potencialmente infectados
+não mantém a segurança do seu computador/dispositivo móvel
+
+Aula 02:
+*  Principais riscos a sua privacidade
+
+Divulgação e coleta indevida de informações pessoais pode
+comprometer sua privacidade, dos seus amigos, dos ses familiares
+facilitar o furto da sua identidade
+quanto mais dados você divulga mais fácil é para um impostor criar uma identidade falsa e usá-la em ações maliciosas, como
+acessar sites
+efetuar transações financeiras
+enviar mensagens eletrônicas
+abrir empresas fantasma
+criar conta bancária ilegítimas
+facilitar a invasão de suas contas de usuário
+senhas e respostas dicas/perguntas de segurança podem ser adivinhadas caso usem dados pessoais
+fazer com que propagandas direcionadas sejam apresentadas
+colocar em risco sua segurança física
+favorecer o recebimento de spam
+causar
+perdas financeiras
+perdas de reputação
+falta de crédito
+
+Aula 03:
+*  Cuidados a serem tomados com email
