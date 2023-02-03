@@ -661,3 +661,157 @@ Aula 09:
 * Cuidados com a senha
 
 Evite usar
+dados pessoais
+nome, sobrenome
+contas de usuário, datas
+número de documentos, de telefones ou de placas de carro
+dados disponíveis em redes sociais e páginas web
+sequências de teclado
+"1qaz 2wsx", "qwert asdfg"
+palavras presentes em listas publicamente conhecidas
+músicas, times de futebol
+personagens de filmes
+dicionários de diferentes idiomas
+
+Use
+números aleatórios
+quanto mais ao acaso forem os números melhor
+principalmente em sistemas que aceitem exclusivamente caracteres numéricos
+grande quantidade de caracteres
+quanto mais longa for a sua senha melhor
+diferentes tipos de caracteres
+quanto mais bagunçada melhor
+
+Dicas práticas para elaborar boas senhas
+escolha uma frase longa, fácil de ser memorizada e com diferentes tipos de caracteres
+senha: 1 dia ainda verei os aneis de Saturno!!
+invente um padrão de substituição própio
+padrão: substituir "o" por "0" e duplicar letras "s" e "r"
+frase: "sol, astro-rei do Sistema Solar"
+senha: SS0l, asstrr0-rrei d0 SSistema SSolar
+
+Aula 10:
+* Como usar senha corretamente
+
+Não exponha suas senhas
+	certifique-se de não estar sendo observado ao digitá-las
+	não as deixe anotadas em locais onde outros possam ver
+		um papel sobre a mesa ou colado em seu monitor
+	evite digitá-la em computadores e dispositivos móveis de terceiros
+
+Não forneça suas senhas para outras pessoas
+	cuidado com emails/telefonemas pedindo dados pessoais
+
+Use conexões seguras quando o acesso envolver senhas
+
+Evite
+	salvar sua senha no navegador web
+	usar opções, como
+		lembre-se de mim
+		continuar conectado
+	usar a mesma senha para todos os serviços que acessa
+
+Não use senhas de acesso profissional para acessar assuntos pessoais (vice-versa)
+	respeito os contextos
+
+Crie grupos de senhas, de acordo com o risco envolvido
+	crie senhas
+		únicas, fortes, e use-os onde haja recurso valioso envolvidos
+		únicas, um pouco mais simples, e use-as onde o valor dos recursos protegidos é inferior
+		simples e reutilize-as para acessos sem risco
+
+Armazene suas senhas de forma segura
+	use um gerenciador de senhas
+	anote-as em um papel e guarde-o em local seguro
+	grave-as em um arquivo criptografado
+
+Aula 11:
+* Alterações de senha
+
+Altere suas senhas
+imediatamente:
+se desconfiar que tenha sido descobertas ou usadas em computadores invadidos ou infectados
+rapidamente: 
+se perder um computador onde elas estejam gravadas
+se usar
+um padrão de formação e desconfiar que alguma tenha sido descoberta
+uma mesma senha em mais de um lugar e desconfiar que ela tenha sido descoberta em algum deles
+ao adquirir equipamentos acessíveis via rede
+eles podem estar configurados com a senha padrão
+regularmente:
+nos demais casos
+
+Recuperação de senhas
+
+
+Configure opções de recuperação de senhas
+um endereço de e-mail alternativo
+um número de telefone celular
+
+Ao usar dicas de segurança, escolha aquelas que sejam
+vagas o suficiente para que ninguém consiga descobri-las, e
+claras o bastante para que você consiga entendê-las
+
+Ao solicitar o envio de suas senhas por e-mail
+procure alterá-las o mais rápido possível
+cadastre um e-mail que você acesse regularmente
+para não esquecer a conta dessa conta
+
+Aula 12:
+* Phishing e Códigos maliciosos
+
+Desconfie de mensagens recebidas
+mesmo que enviadas por conhecidos
+elas podem ter sido enviadas de contas falsas ou invadidas
+
+Evite
+clicar/seguir links recebidos via mensagens eletrônicas
+procure digitar a URL diretamente no navegador
+usar sites de busca para acessar serviços que requeiram senhas, como seu webmail e sua rede social
+
+Seja cuidadoso ao acessar links reduzidos
+use complementos que permitam expandir o link antes de clicar sobre ele
+
+Privacidade - Não existe
+
+Procure reduzir a quantidade de informações de que possam ser coletadas sobre você
+elas podem ser usadas para adivinhar sua senha
+
+Computadores
+
+Mantenha seu computador seguro, com
+todos os programas instalados nas versões recentes
+principalmente as de segurança
+
+Utilize e  mantenha atualizados mecanismos de segurança
+antispam...
+
+Crie contas individuais para todos os usuários
+assegure-se de que todas as contas tenham senhas
+
+Configure seu computador para solicitar senha na tela inicial
+
+Nunca compartilhe a senha de administrador
+use-a o mínimo necessário,e 
+usando senhas bem elaboradas
+
+Dispositivos móveis
+
+Cadastre uma senha de acesso bem bolada
+se possível, configure-o para aceitar senhas complexas
+
+Em caso de perda ou furto
+altere as senhas armazenadas nele
+
+Computadores de terceiros
+
+Certifique-se de fechar a sua sessão (logout) ao acessar sites que requerem o uso de senhas
+
+Utilize opções de navegação anônima
+
+Evite efetuar transações bancárias e comerciais
+
+Ao retornar ao seu computador
+altere as senhas utilizadas
+
+Aula 13:
