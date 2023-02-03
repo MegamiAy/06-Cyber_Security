@@ -992,3 +992,233 @@ falta de crédito
 
 Aula 03:
 *  Cuidados a serem tomados com email
+Use programas leitores de emails que permitam que as mensagens sejam criptografadas
+mensagens criptografadas somente poderão ser lidas por quem decodificá-las
+
+Use conexão segura ao acessar emails via navegadores
+isso dificulta que eles sejam interceptados
+
+Armazene e mails confidenciais em formato criptografado
+isso dificulta que sejam lidos por atacantes e códigos maliciosos
+você pode decodificá-los na hora de lê-los
+
+Use criptografia para conexões entre seu leitos de emails e os servidores de emails do ser provedor
+
+Seja cuidadosos ao acessar seu webmail
+digite a URL diretamente no navegador
+tenha cuidado ao clicar em links recebidos por meio de mensagens eletrônicas
+
+Aula 04:
+*  Cuidados ao navegar na web
+
+Seja cuidadoso ao usar cookies
+use uma ou mais das seguintes opções
+defina um nível de permissão superior ou igual a "médio"
+configure para que
+os cookies sejam apagados quando o navegador for fechado
+cookies de terceiros não sejam aceitos
+você pode também configurar para que, por padrão
+os sites não possam definir cookies
+e criar listas de exceções, liberando os sites considerados confiáveis e onde o uso é realmente necessário
+os sites possam definir cookies
+e criar listas de execuções, bloqueando os sites indesejados
+
+Quando disponível procure utilizar
+navegação anônima
+principalmente ao usar computadores de terceiros
+informações sobre navegação não serão armazenadas
+opções que indiquem que você não quer ser  rastreado
+Do Not Track
+lista de proteção contra rastreamento
+
+Aula 05:
+*  Cuidados ao divulgar informações
+
+Avalie com cuidado as informações divulgadas
+em sua página web, rede social ou blog
+elas podem ser usada para
+atentar contra a segurança do seu computador
+atentar contra sua segurança física
+aplicar golpes de engenharia social
+obter informações sobre você
+
+Considere que você está em um local público
+
+Pense bem antes de divulgar algo
+não é possível voltar atrás
+
+Divulgue a menor quantidade possível de informações, tanto de você como sobre seus amigos e familiares
+oriente-os a fazer o mesmo
+
+Sempre que alguém solicitar dados sobre você ou preencher algum cadastro
+reflita se é realmente necessário que aquela empresa ou pessoa tenha acesso àquelas informações
+
+Ao receber ofertas de emprego pela internet
+limite as informações disponibilizadas no currículo
+só forneça mais dados quando estiver  seguro de que a empresa e a oferta são legítimas
+
+Fique atento a mensagens eletrônicas pelas quais alguém solicita informações pessoais, inclusive senhas
+
+Seja cuidadoso ao divulgar sua localização geográfica
+com base nelas, é possível descobrir sua rotina, deduzir informações e tentar prever seus próximos passos
+
+Verifique a política de privacidade dos sites que você usa
+fique atento às mudanças, principalmente aquelas relacionadas ao tratamento de dados pessoais
+
+Use as opções de privacidade oferecidas pelo site
+procure ser o mais restritivo possível
+
+Mantenha seu perfil e seus dados privados
+
+Seja seletivo ao aceitar seus contatos
+
+Seja cuidadoso ao se associar a grupos e comunidades
+
+Aula 06:
+*   Cuidados ao manipular dados e recursos
+
+Dados - qualquer coisa armazenada
+
+Armazene dados sensíveis em formato criptografados
+
+Cifre o disco do seu computador e dispositivos removíveis
+
+Ao compartilhar recursos do seu computador
+estabeleça senhas para os compartilhamentos
+compartilhe pelo tempo mínimo necessário
+
+Mantenha backups em
+locais seguros
+com acesso restrito
+
+Ao usar serviços de backup online
+considere a política de privacidade e de segurança do site
+
+Aula 07:
+* Importância dos seus dados
+
+Dados de cadastro, biográficos, profissionais, financeiros e de navegação são apenas alguns exemplos de dados referentes a você que, diariamente
+circula por diversas redes
+são armazenados em diferentes sistemas, dispositivos e mídias
+
+
+Infelizmente, há situações em que seus dados podem ser
+perdidos
+indevidamente acessados
+coletados e vendidos sem que você saiba
+
+Para proteger seus dados e assegurar que eles sejam tratados de forma adequada há um conjunto de mecanismos de segurança que podem ser usados, por exemplo
+o uso de senhas fortes impede o acesso indevido às contas
+a criptografia dificulta que seus dados sejam acessados indevidamente
+
+
+Há situações em que os mecanismos de segurança sozinhos não protegem seus dados, por exemplo quando eles são 
+passados deliberadamente a outros sem sua autorização
+coletados sem necessidade
+
+Adotar uma postura preventiva, tentando reduzir a quantidade de dados fornecidas por você, é essencial
+
+
+Para coibir abusos, garantir seus direitos e agir adequadamente é importante conhecer a legislação vigente
+
+Aula 08:
+*  Como seus dados podem ser abusados
+
+O abuso de seus dados pode acarretar
+prejuízos financeiros
+restrição a direitos ou benefícios
+invasão de privacidade
+
+Pode ocorrer de diversas formas
+acesso indevido
+perda de dados
+invasão de contas e golpe
+coleta excessiva
+
+Acesso indevido
+seus dados podem ser indevidamente acessados
+por aplicativo e sites
+que processem seus dados além da finalidade informada
+por atacantes ou códigos maliciosos
+que consigam acesso às suas contas, equipamentos ou mídias
+em caso de vazamento de dados
+
+Perda de dados
+seus dados podem ser perdidos
+pela ação de códigos maliciosos, como ransomware
+pela ação de atacantes que consigam invadir seus equipamentos e mídias e venham a apagá-los
+
+Invasão de contas e golpes
+seus dados podem ser usados para
+para adivinhar suas senhas e responder perguntas de segurança
+tentativas de golpes personalizados
+phishing direcionado e personalizado (spear phishing)
+furto de identidade
+extorsão
+
+Coleta excessiva
+muitos aplicativos e site coletam dados extras sem os seu conhecimento e os utilizam para elaboração de perfis de comportamento (profiling)
+seu perfil pode, então, ser usado sem o seu consentimento
+de forma discriminatória
+para fins como propagandas
+
+
+Aula 09:
+*  Cuidados com seus dados
+
+Backups - backups protegem seus dados em caso de mau funcionamento de equipamentos, de perda de dispositivos e da ação de códigos maliciosos, especialmente ransomware
+
+Faça regularmente backup dos seus dados
+
+Programe seus backups para serem feitos automaticamente
+
+Teste periodicamente seus backups
+para ter certeza de que estão feitos corretamente
+
+Mantenha pelo menos um backup offline
+
+Arquivos
+evite colocar na nuvem arquivos contendo dados confidenciais ou que considere privados
+crie uma partição criptografada ou use outros recursos de criptografia para armazenar seus arquivos de forma segura
+seja cuidadoso ao abrir arquivos recebidos por terceiros
+
+Criptografia - a criptografia ajuda a tornar as transmissões de dados mais seguras, detectar alterações em seus dados e impedir que sejam lidos indevidamente
+
+Use criptografia para proteger seus dados armazenados em seus equipamentos e mídias
+em caso de perda ou furto será mais difícil deles serem acessados
+
+Ative as configurações de criptografia em seus discos e mídias
+como pen drives e discos externos
+
+Use conexões seguras - sites com criptografia
+
+Contas e senhas ...
+
+Aplicativos
+instale aplicativos somente de fontes e lojas digitais
+antes de instalar, verifique as telas e o nome do aplicativo
+muitos falsos aplicativos se assemelham aos oficiais
+
+observe
+se o desenvolvedor do aplicativo é confiável
+quantas pessoas instalaram o aplicativo
+qual a opinião delas sobre o aplicativo
+fique atento as permissões
+forneça apenas aquelas que considerar necessárias
+limite quais aplicativos podem ter acesso ao microfone, a câmera, seus contatos e suas localizações
+apague os aplicativos que você não usa mais
+
+Equipamentos e mídia 
+atualize o sistema e os aplicativos
+utilize mecanismos de segurança
+cuidado para não perder pen drives e disco externos
+antes de se desfazer de seus equipamentos e mídias apague os dados armazenados nele - furadeira nele
+ao enviar equipamentos para manutenção escolha empresas com boa reputação
+seja cuidadoso de terceiro ou potencialmente infectados
+
+Emails
+desconfie de links e mensagens
+seja cuidadoso ao acessar seu webmail
+armazene e mails confidenciais em formato criptografado
+
+Aula 10:
