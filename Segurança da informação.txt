@@ -1388,3 +1388,26 @@ não clique em links recebidos por email ou mensagens de texto
 não efetue transações financeiras sem antes confirmar a identidade das partes envolvidas
 
 Aula 16:
+*  A quem recorrer em caso de vazamento
+
+Fraude financeira
+contate as instituições envolvidas
+
+Furto de identidade
+registre um BO junto à autoridade policial
+para viabilizar a apuração e resguardar-se
+
+Se comprovadamente ocorrer um vazamento envolvendo seus dados pessoais
+busque informações junto a instituição responsável
+também chamada "controladora de dados"
+
+Caso sua solicitação não seja atendida ou não saiba qual instituição está envolvida
+denuncie no site da ANPD informando
+quais dados vazados
+quando teve ciência do vazamento
+quais evidências você possui
+
+Não incentive vazamentos e abusos
+não compre lista de dados
+coloca todos em risco, inclusive você
+evite acessar sites e abrir arquivos que supostamente confirmem ou exibam os dados vazados
