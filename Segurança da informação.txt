@@ -815,3 +815,68 @@ Ao retornar ao seu computador
 altere as senhas utilizadas
 
 Aula 13:
+* Verificação em duas etapas
+
+Também chamada de 
+two-factor authentication
+aprovação de login
+verificação ou autenticação em ou passos
+
+Recursos opcional oferecido por diversos serviços
+webmail
+redes sociais
+internet banking
+armazenamento em nuvem
+
+Ao ser habilitada
+permite aumentar a segurança de sua conta
+pode ser desabilitada caso não seja mais desejada
+
+Dificulta o acesso indevido de contas de usuário
+
+Para que o acesso ocorra é necessário que o atacante realize com sucesso duas etapas
+senha do usuário
+informação adicional
+
+Segunda etapa pode envolver
+algo que apenas você sabe
+outra senha, perguntas de segurança, número PIN, alguma informação pessoal
+algo que apenas você possui
+código de verificação, cartão de senhas bancárias, token gerador de senhas, acesso a um determinado computador ou dispositivo móvel
+algo que você é 
+informações biométricas
+impressão digital, palma da mão, rosto, olho
+
+Aula 14:
+* Cuidados com a verificação de duas etapas
+
+Código individual
+criado pelo serviço
+enviado de forma que apenas você possa recebê-lo
+e-mail
+SMS
+chamada de voz
+pode ser gerado por um aplicativo autenticador instalado no seu celular
+
+Cuidados a serem tomados
+mantenha atualizados seus dados para recebimento
+números de telefone celulares alternativos podem ser cadastrados, caso o seu principal não esteja disponível
+tenha certeza de estar de posse de seu telefone celular, caso tenha configurado
+o envio via SMS
+o uso do aplicativo autenticador
+o aplicativo autenticador deve ser usado em casos onde não  é possível receber mensagens SMS
+
+Código de verificação específico
+
+Código gerado para aplicativos que não suportam a verificação em duas etapas
+
+Cuidados a serem tomados
+caso perca o acesso ao seu dispositivo móvel
+revogue os códigos específicos gerados para os acessos realizados por meio dele
+
+Aula 15:
+* Formas de verificação em duas etapas
+
+Token gerador de senhas
+
+Chave eletrônica
