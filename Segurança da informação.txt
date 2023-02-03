@@ -593,3 +593,71 @@ Oriente seus familiares para não divulgarem informações sobre a sua empresa e
 
 Aula 06:
 * Senhas
+
+Servem para autenticar um usuário
+asseguram que você é realmente quem diz ser
+possui o direito de acessar o recurso em questão
+
+Um dos principais mecanismos de autenticação usados na internet
+
+Proteger suas senhas é essencial para se prevenir de riscos na internet
+é o segredo das suas senhas que garante a sua identidade ou seja, que você é o dono das suas contas de usuário
+
+Sua senha pode ser descoberta
+quando usada em
+computadores infectados
+computadores invadidos
+sites falsos (phishing)
+por meio de tentativa de adivinhação (brutal force)
+ao ser capturada enquanto trafega na rede
+por meio do acesso ao arquivo onde foi armazenada
+com o uso de técnicas de engenharia social
+pela observação da movimentação
+dos seus dedos no teclado
+dos cliques do mouse em teclados virtuais
+
+Aula 08:
+* Principais riscos 
+
+De posse da sua senha um invasor pode
+acessar a sua conta de e-mail
+ler e/ou apagar seus e-mails
+furtar sua lista de contatos e enviar e-mail em seu nome
+pedir o reenvio de senhas de outras contas
+e assim conseguir acesso a elas
+trocar sua senha
+dificultando que você acesse novamente a sua conta
+enviar mensagens contendo
+spam
+boatos
+phishing
+códigos maliciosos
+
+De Posse da sua senha um invasor pode
+acessar seu computador e
+apagar seus arquivos
+obter informações sensíveis, inclusive outras senhas
+instalar códigos e serviços maliciosos
+usar seu computador para
+desferir ataques contra outros computadores
+esconder a real identidade dessa pessoa
+acessar a sua rede social e 
+denegrir a sua imagem
+explorar a confiança de seus amigos/seguidores
+alterar as configurações feitas por você, tornando públicas informações privadas
+trocar suas senhas
+acessar a sua conta bancária e
+verificar sei extrato e seu saldo
+acessar o seu site de comércio eletrônico e
+alterar informações de cadastro
+fazer compras em seu nome
+verificar informações sobre suas compras anteriores
+acessar o seu dispositivo móvel e 
+furtar sua lista de contatos e suas mensagens
+acessar e/ou copiar fotos e vídeos
+bloquear seu acesso ao seu dispositivo
+
+Aula 09:
+* Cuidados com a senha
+
+Evite usar
