@@ -1,0 +1,465 @@
+Aula 01:
+* Pilares da segurança da informação - CIDAL
+
+Confidencialidade - Segredo
+Integridade - Sem alteração
+Disponibilidade - Estar disponível
+Autenticidade - Prova de que é original/real
+Legalidade - Proteção dos dados
+
+Aula 02:
+* Alguns termos
+
+Hackers: 
+white hats - técnico e ético
+grey hats - meio-a-meio
+black hats - invasão, sem ética - crackers
+
+Newbies - Noob:
+Iniciantes
+
+Lammer:
+usa o que já está pronto para hackear, não consegue criar algo para hackear-crackear
+
+Aula 03:
+* Computadores
+
+Computador pessoal: 
+grande quantidade de dados armazenados
+usado para acesso a:
+Internet Banking
+Comércio eletrônico
+Redes sociais, etc.
+
+Pode ser um grande erro acreditar que seu computador
+não apresenta atrativos
+dificilmente será localizado na Internet
+
+Sentindo-se seguro você pode acreditar que não precisa se prevenir
+a ilusão termina quando os problemas acontecem
+ 
+Atacantes interessados em acessar grande quantidade de computadores, independente:
+de quais são
+das configurações que possuem
+
+Seu computador pode ser invadido ou infectado por meio:
+da ação direta de atacantes
+da auto-execução de mídias removíveis infectadas
+do acesso a páginas web maliciosas
+utilizando navegadores vulneráveis
+da exploração de:
+vulnerabilidades existentes nos programas intalados
+conta de usuário
+sem senha
+com senha fraca
+
+Seu computador pode ser invadido ou infectado por meio:
+da ação de códigos maliciosos
+recebidos pela rede
+obtidos:
+em anexos de mensagens eletrônicas
+em outros computadores
+em páginas web
+via mídias removíveis	
+
+Aula 04:
+* Riscos principais - Computadores
+
+Se o seu computador for comprometido você pode vir a enfrentar problemas, como:
+ficar sem acesso ao computador
+vazamentos de informações
+invasão de privacidade
+furto de identidade
+perda de dados
+perda financeiras
+
+Seu computador pode ser usado para atividades maliciosas, como:
+infectar, invadir e atacar outros computadores
+esconder a real identidade e localização de um atacante
+servir de repositório para dados fraudulentos
+aplicar golpes em outros usuários
+propagar códigos maliciosos
+disseminar spam
+
+Aula 05:
+* Cuidados a serem tomados
+
+Tenha sempre as versões mais recentes dos programas
+Remova:
+as versões antigas 
+os programas que você não utiliza mais
+programas não usados tendem a:
+ser esquecidos
+ficar com versões antigas e potencialmente vulneráveis
+
+Habitue-se a verificar a existência de novas versões
+por meio de opções disponibilizadas pelos programas, ou
+acessando diretamente os sites dos fabricantes
+
+Configure os programas para serem atualizados automaticamente
+
+Programe as atualizações automáticas para serem baixadas e aplicadas em um horário em que o computador esteja ligado e conectado à Internet
+
+Cheque periodicamente por novas atualizações usando as opções disponíveis nos programas
+
+Use apenas programas originais
+Ao comprar um computador pré-instalado:
+certifique-se de que os programas instalados são originais solicitando ao vendedor as licenças de uso
+
+Ao enviar seu computador para manutenção
+não permita a instalação de programas não originais
+
+Caso deseje um programa proprietário, mas não possa adquirir a licença, procure por alternativas:
+gratuitas
+mais barata
+com funcionalidades semelhantes às desejadas
+
+Aplicativos de terceiros
+verifique se as permissões de instalação e execução são coerentes
+
+Seja cuidadoso ao:
+permitir que os aplicativos acessem seus dados pessoais
+selecionar os aplicativos, escolhendo aqueles:
+com grande quantidade de usuários
+bem avaliados
+
+Use mecanismo de proteção
+instale um antivírus (antimalware)
+mantenha-o atualizado, incluindo o arquivo de assinaturas
+configure-o para verificar todos os formatos de arquivo
+sempre verifique os arquivos recebidos antes de abri-los ou executá-los
+
+Assegure-se de ter um firewall pessoal instalado e ativo
+
+Crie um disco de recuperação de seu sistema
+certifique-se de tê-lo por perto em caso de emergências
+Crie um disco de emergência de antivírus
+use-o se desconfiar que:
+o antivírus instalado está desabilitado ou comprometido
+o comportamento do seu computador está estranho
+gravando ou lendo o disco rígido com muita frequência
+mais lento
+
+Seja cuidadoso ao clicar em links
+independente de como foram recebidos e de quem os enviou
+
+Antes de clicar em um link curto:
+use complementos que permitam visualizar o link de destino
+
+Mensagens de conhecidos nem sempre são confiáveis
+o campo de remetente pode ter sido falsificado, ou
+podem ter sido enviadas de contas falsas ou invadidas
+
+Desabilite a auto-execução de:
+mídias removíveis
+arquivos anexados
+
+Contas e Senhas
+crie uma conta padrão e use-a nas tarefas rotineiras
+use  a conta de administrador:
+somente quando necessário
+pelo menor tempo possível
+
+Use a opção de executar como administrador quando necessitar de privilégios administrativos
+
+Mantenha a conta de convidado desabilitada
+
+Assegure-se de que:
+todas as contas de acesso existentes tenham senha
+não existam contas de uso compartilhado
+
+Ao usar o computador em locais públicos
+mantenha-o bloquado
+para evitar que seja  usado quando você não estiver por perto
+
+Dicas na utilização de computadores de terceiros
+Utilize opções de navegar anonimamente
+Não efetue transações bancárias ou comerciais
+Não utilize opções como:
+lembre-se de mim
+continuar conectado
+Limpe os dados pessoais salvos no navegador
+Não permita que senhas sejam memorizadas pelo navegador (gestor de senha)
+
+Assegure-se de sair de suas contas de usuário
+
+Seja cuidadoso ao conectar mídias removíveis
+
+Ao retornar ao seu computador:
+altere as senhas usadas
+verifique seu pendrive com um antivírus
+
+Faça regularmente backup dos seus dados
+
+Mantenha a data e a hora corretas
+
+Verifique as configurações de segurança oferecidas pelos progamas instalados em seu computador
+adapte-as às suas necessidades
+
+Ao compartilhar recursos do seu computador:
+estabeleça:
+senhas para os compartilhamentos
+permissões de acesso adequadas
+compartilhe seus recursos pelo tempo mínimo necessário
+
+Ao enviar seu computador para serviços de manutenção:
+selecione empresas com boas referências
+pesquise na internet sobre a empresa
+á procura da opinião de clientes sobre ela
+não permita a instalação de programas não originais
+se possível, faça backup de dados antes de enviá-lo
+
+Aula 06:
+* Dispositivos Móveis
+
+Tablets, smartphones, celulares, etc.
+
+Cada vez mais populares
+
+Executam ações realizadas em computadores pessoais
+navegação web
+internet Banking
+acesso a e-mails
+acesso a redes sociais
+
+Principais características:
+auxílio em tarefas cotidianas
+grande quantidade de informações pessoais e profissionais
+agenda, contados, chamadas realizadas, mensagens recebidas
+conectividade
+wi-fi, 4g...
+peso e portabilidade
+leves e de tamanho reduzido
+fáceis de serem carregados em bolsas/bolsos
+diversas funcionalidades integradas
+GPS, câmera
+
+Aula 07:
+* Principais Riscos - Dispositivos Móveis
+
+Dispositivos móveis X Computadores pessoais
+funcionalidades similares
+riscos similares:
+códigos maliciosos
+phishing 
+acesso a conteúdos impróprios ou ofensivos
+contato com pessoas mal-intencionadas
+perda de dados
+dificuldade em manter sigilo
+
+Possuem características que os tornam ainda mais atraentes para atacantes e pessoal mal-intencionadas
+
+Vazamento de informações
+grande quantidade de informações pessoais armazenadas
+rápida substituição de modelos
+sem a devida exclusão das informações gravadas
+
+Informações podem ser indevidamente coletadas
+mensagens SMS
+lista de contatos
+calendários
+histórico de chamadas
+fotos e vídeos
+senhas
+números de cartão de crédito
+
+Maior possibilidade de perda e furto
+tamanho reduzido
+alto valor financeiro
+representam status
+atraem atenção de assaltantes
+constante uso
+usados em locais públicos
+esquecidos facilmente
+
+Invasão de privacidade
+Intencional:
+dispositivos sempre à mão
+uso generalizado
+alguém pode tirar uma foto sua e publicá-la sem seu conhecimento ou permissão 
+localização fornecida por aplicativos de geolocalização (GPS)
+dados pessoais coletados por códigos maliciosos
+excesso de informações pessoais sendo fornecidas
+locais que você frequenta
+horários, rotinas, hábitos		
+bens pessoais
+
+Instalação de aplicativos maliciosos
+grande quantidade de aplicativos sendo desenvolvidos
+diferentes autores
+diferentes funcionalidades
+dificuldade de manter controle
+podem existir aplicativos:
+não confiáveis
+com erros de implementação
+especificamente desenvolvidos para
+executar atividades maliciosas
+coletar dados dos aparelhos
+
+Propagação de códigos maliciosos
+códigos maliciosos podem ser recebidos por meio de:
+mensagens SMS
+e-mails
+redes sociais, etc.
+dispositivo infectado pode:
+ter os dados coletados
+ter os dados apagados
+participar de ataques na internet
+fazer parte de botnet
+
+Aula 08:
+* Cuidados a serem tomados
+
+Observe os mecanismos de segurança disponibilizados
+diferentes modelos e fabricantes
+escolha o que considerar mais seguro
+
+Caso opte por um modelo já usado
+restaure as configurações de fábrica antes de usá-lo
+
+Não adquira um dispositivo:
+ilegalmente desbloqueado (jailbreak)
+com permissões de acesso alteradas
+ação ilegal
+violação dos termos de garantia
+comprometimento da segurança e do funcionamento
+
+Mantenha seu dispositivo seguro:
+com a versão mais recente dos programas instalados
+com todas as atualizações aplicada
+
+Não siga links recebidos via mensagens eletrônicas
+SMS, e-mails, redes sociais...
+
+Instale e mantenha atualizados
+
+Mecanismos de segurança
+antivírus
+antispam
+antimalware
+firewall pessoal
+
+Mantenha controle físico
+principalmente em locais de risco
+procure não deixá-los sobre a mesa
+cuidado com bolsos em ambientes públicos
+
+Proteja sua privacidade
+seja cuidadoso ao:
+publicar sua geolocalização
+permitir que aplicativos acessem seus dados pessoais
+Proteja suas senhas
+cadastre senhas de acesso bem elaboradas
+se possível, configure-o para aceitar senhas complexas (alfanuméricas) 
+use senhas longas, com diferentes tipos de caracteres
+não utilize
+sequências de teclado
+dados pessoais, como nome, sobrenome e datas
+dados que possam ser facilmente obtidos sobre você
+
+Proteja seus dados
+configure:
+senha de bloqueio na tela inicial
+código PIN
+faça backups periódicos
+mantenha informações sensíveis em formato criptografado
+use conexão segura quando a comunicação envolver dados confidenciais
+senhas
+números de cartões de crédito
+
+Ao instalar aplicativos
+procure obter aplicativos de fontes confiáveis
+lojas confiáveis
+site do fabricante
+Escolha aplicativos
+bem avaliados
+com grande quantidade de usuários
+
+Verifique com seu antivírus antes de instalar o aplicativo
+
+Observe as permissões para execução
+elas devem ser coerentes com a finalidade do aplicativo
+um aplicativo de jogos, por exemplo, não necessariamente precisa ter acesso a sua lista de chamadas
+
+Seja cuidadoso ao entrar em redes de wi-fi públicas
+desabilite a opção de conexão automática
+
+Mantinha interfaces de comunicações desativadas
+bluetooth, infravermelho e wi-fi
+somente as habilite quando necessário
+
+Configure o bluetooh para que o dispositivo não seja identificado ou descoberto por outros aparelhos
+
+Apague todas as informações nele contidas
+
+Restaure as configurações de fábrica
+
+Configure-o previamente, se possível, para que:
+seja localizado/rastreado e bloqueado remotamente, por meio de serviços de geolocalização
+uma mensagem seja mostrada na tela
+para aumentar as chances dele ser devolvido
+o volume seja aumentado ou que saia do modo silencioso
+para facilitar a localização
+os dados sejam apagados após um determinado número de tentativa de bloqueio
+
+Informe:
+a sua operadora
+solicite o bloqueio do seu número (chip)
+a empresa onde você trabalha
+caso haja dados e senhas profissionais nele armazenadas
+
+
+Altere as senhas que possam estar nele armazenadas
+
+
+Bloqueie cartões de crédito cujo número esteja nele armazenado
+
+
+Ative a localização remota, caso a tenha configurado
+se necessário, apague remotamente os dados gravados
+
+Módulo 01
+Aula 01:
+* Redes Sociais
+
+Redes de relacionamentos que permitem que usuários:
+forneçam informações sobre si
+acessem informações sobre outros usuários
+utilizem mecanismos de comunicação
+se agrupem, de acordo com afinidades, características, interesses e objetivos em comum
+
+Conteúdo totalmente gerado pelos próprios usuários
+
+Diário público
+quem você é?
+onde você está?
+o que você curte?
+quem você conhece?
+o que está acontecendo?
+o que seus amigos dizem sobre você?
+onde você tem estado?
+
+Aula 02:
+* Características das principais
+
+Facilidade de acesso
+
+Rápida velocidade de propagação de informações
+
+Grande quantidade de
+usuários
+informações pessoais
+
+Dificuldade de
+exclusão de informações
+controle sobre as informações
+
+Tempo que as informações ficam disponíveis
+
+Alto grau de confiança que os usuários depositam entre si
+
+Novas oportunidades de negócios
+
+Presente em diversos meios
+
+Aula 03:
