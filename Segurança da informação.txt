@@ -1167,18 +1167,17 @@ Use conexões seguras - sites com criptografia
 Contas e senhas ...
 
 Aplicativos
-instale aplicativos somente de fontes e lojas digitais
-antes de instalar, verifique as telas e o nome do aplicativo
-muitos falsos aplicativos se assemelham aos oficiais
-
-observe
-se o desenvolvedor do aplicativo é confiável
-quantas pessoas instalaram o aplicativo
-qual a opinião delas sobre o aplicativo
-fique atento as permissões
-forneça apenas aquelas que considerar necessárias
-limite quais aplicativos podem ter acesso ao microfone, a câmera, seus contatos e suas localizações
-apague os aplicativos que você não usa mais
+	instale aplicativos somente de fontes e lojas digitais
+	antes de instalar, verifique as telas e o nome do aplicativo
+	muitos falsos aplicativos se assemelham aos oficiais
+	observe
+		se o desenvolvedor do aplicativo é confiável
+		quantas pessoas instalaram o aplicativo
+		qual a opinião delas sobre o aplicativo
+		fique atento as permissões
+		forneça apenas aquelas que considerar necessárias
+		limite quais aplicativos podem ter acesso ao microfone, a câmera, seus contatos e suas localizações
+		apague os aplicativos que você não usa mais
 
 Equipamentos e mídia 
 atualize o sistema e os aplicativos
@@ -1204,13 +1203,13 @@ permitem criar reputação online e definir seu perfil comportamental
 Dados que você divulga
 pense bem antes de divulgar algo
 depois será difícil de excluir
-seja seletivo ao aceitar seus contatos nas redes sociais
-ao preencher cadastros questione-se sobre necessidade
-use conexões seguras - https
-seja seletivo ao baixar aplicativos
-observe as configurações de privacidade de seus aplicativos e navegadores
-ao acessar site, procure limitar a coleta de dados por cookies
-limpe frequentemente o histórico de navegação
+	seja seletivo ao aceitar seus contatos nas redes sociais
+	ao preencher cadastros questione-se sobre necessidade
+	use conexões seguras - https
+	seja seletivo ao baixar aplicativos
+	observe as configurações de privacidade de 	seus aplicativos e navegadores
+	ao acessar site, procure limitar a coleta de dados por cookies
+	limpe frequentemente o histórico de navegação
 
 Aula 11:
 *  Lei geral de proteção de dados - LGPD
@@ -1218,28 +1217,24 @@ Aula 11:
 Informe-se sobre seus direitos
 
 LGPD
-criada para que
-o indivíduo tenha controle sobre seus dados pessoais
-saiba como esses dados são tratados por organizações públicas, privadas e terceiros
-
-
-dados pessoais, segundo a LGPD
-informações relacionadas à pessoa natural identificada ou identificável
-Como titular de dados pessoais você tem diversos direitos garantidos pela LGPD, como os definidos no art. 18
-informe-se sobre a LGPD, conheça seus direitos e saiba como agir de forma adequada
+	criada para que
+		o indivíduo tenha controle sobre seus dados pessoais
+		saiba como esses dados são tratados por organizações públicas, privadas e terceiros
+	dados pessoais, segundo a LGPD
+		informações relacionadas à pessoa natural identificada ou identificável
+		Como titular de dados pessoais você tem diversos direitos garantidos pela LGPD, como os definidos no art. 18
+	informe-se sobre a LGPD, conheça seus direitos e saiba como agir de forma adequada
 https://www.gov.br/anpd/pt-br/legislacao
 
 Benefícios e direitos trazidos pela LGPD
 a LGPD
-dá a você direito de saber
-como seus dados são exatamente tratados
-quais dados são coletados
-o porquê e com quem seus dados são compartilhados
-traz maior segurança jurídica
-ao fornecer mecanismos para que você tenha controle sobre quais dados seus são coletados e como são usados
-organizações públicas e privadas devem disponibilizar informações claras que o ajudem a compreender
-os termos de consentimento
-as bases legais que apoiam o tratamento dos seus dados 
+	dá a você direito de saber
+	como seus dados são exatamente tratados
+	quais dados são coletados
+	o porquê e com quem seus dados são compartilhados
+	traz maior segurança jurídica
+	ao fornecer mecanismos para que você tenha controle sobre quais dados seus são coletados e como são usados
+	organizações públicas e privadas devem disponibilizar informações claras que o ajudem a compreender os termos de consentimento as bases legais que apoiam o tratamento dos seus dados 
 caso a instituição responsável pelo tratamento de seus dados pessoais não atenda a um de seus direitos de titular sem uma justificativa legal
 você tem o direito de peticionar um reclamação para Autoridade Nacional de Proteção de Dados - ANPD
 https://www.gov.br/anpd/pt-br/canais_atendimento
@@ -1252,25 +1247,25 @@ Ocorrem quando dados são indevidamente acessados, coletados e divulgados na int
 Com a disseminação dos serviços online, seus dados estão cada vez mais expostos e sendo coletados pelos diferentes serviços disponíveis
 
 Pode ser originado
-do furto de dados por atacantes e códigos maliciosos exploram vulnerabilidades em sistemas
-do acesso a contas de usuário, por meio de senhas fracas ou vazadas
-da ação de funcionários ou ex-funcionários que coletam dados dos sistemas da empresa e os repassam a terceiros
-do furto de equipamentos que contenham dados sigilosos
+	do furto de dados por atacantes e códigos 	maliciosos exploram vulnerabilidades em sistemas
+	do acesso a contas de usuário, por meio de senhas fracas ou vazadas
+	da ação de funcionários ou ex-funcionários que coletam dados dos sistemas da empresa e os repassam a terceiros
+	do furto de equipamentos que contenham dados sigilosos
 
 Exemplos de dados que podem vazar
-credenciais de acesso
-como nomes de usuário e senhas
-informações financeiras
-como números de contas bancárias e de cartão de crédito
-documentos
-como CPF, RG e carteira de habilitação
-informações de contato
-como endereços e números de telefone
-registros de saúde
-como resultados de exames e prontuários médicos
-outros dados
-como data de nascimento, data de nascimento, nomes de familiares...
-TUDO
+	credenciais de acesso
+	como nomes de usuário e senhas
+	informações financeiras
+	como números de contas bancárias e de cartão de crédito
+	documentos
+	como CPF, RG e carteira de habilitação
+	informações de contato
+	como endereços e números de telefone
+	registros de saúde
+	como resultados de exames e prontuários médicos
+	outros dados
+	como data de nascimento, data de nascimento, nomes de familiares...
+	TUDO
 
 Para evitar vazamentos é importante que todos contribuam
 
@@ -1279,107 +1274,107 @@ Você pode ajudar a reduzindo a quantidade de dados expostos sobre você
 Fique atento e, no caso de um vazamento envolvendo seus dados, procure agir rapidamente para reduzir os danos
 
 Após um vazamento é esperado um aumento nas tentativas de golpes por diferentes meios, como
-emails
-mensagens de texto
-ligações telefônicas
+	emails
+	mensagens de texto
+	ligações telefônicas
 
 Aula 13:
 *  Furto de identidade e tentativa de golpe
 
 Furto de identidade
-abertura de contas em seu nome
-tentativa de adivinhação de senhas
-responder perguntas de segurança
-uso de senhas vazadas
-invadir serviços onde foram criadas
-invadir outros serviços
-onde a mesma senha seja usada
+	abertura de contas em seu nome
+	tentativa de adivinhação de senhas
+	responder perguntas de segurança
+	uso de senhas vazadas
+	invadir serviços onde foram criadas
+	invadir outros serviços
+	onde a mesma senha seja usada
 
 Furto de identidade levando a prejuízos financeiros
 criação de cartões de crédito, contas bancárias e empréstimos, levando a
-dívidas
-transações ilícitas em seu nome
-movimentações financeiras indevidas em sua contas bancárias ou cartões de crédito
-transferências de bens móveis ou imóveis
+	dívidas
+	transações ilícitas em seu nome
+	movimentações financeiras indevidas em sua contas bancárias ou cartões de crédito
+	transferências de bens móveis ou imóveis
 
 Informações privadas podem ficar expostas na internet
 
 Tentativas de golpes
-extorsão, onde o atacante faz chantagem para não expor os seus dados
+	extorsão, onde o atacante faz chantagem para não expor os seus dados
 
 Quanto mais informações um atacante tiver
-mais convincente ele será
-mais facilmente enganar outras pessoas
+	mais convincente ele será
+	mais facilmente enganar outras pessoas
 
 Dados vazados podem ser usados
-em tentativas de phishing
-para convencê-lo a revelar mais informações
-induzi-lo a fazer transações
+	em tentativas de phishing
+	para convencê-lo a revelar mais informações
+	induzi-lo a fazer transações
 
 Aula 14:
 * O que fazer em caso de vazamento
 
-Se receber notificações ou soube pela mídia de algum vazamento envolvendo seus dados pessoais, informe-se sobre o ocorrido e tente identificar
-quais dados vazaram
-isso ajuda a saber quais medidas tomar
-quais medidas de mitigação foram ou serão tomadas pelo organização
-quais as medidas a serem tomadas por você
-as datas do potencial vazamento
-comunicados e notícias a respeito
+Se receber notificações ou soube pela mídia de algum vazamento envolvendo seus dados pessoais, 	informe-se sobre o ocorrido e tente identificar
+	quais dados vazaram
+	isso ajuda a saber quais medidas tomar
+	quais medidas de mitigação foram ou serão tomadas pelo organização
+	quais as medidas a serem tomadas por você
+	as datas do potencial vazamento
+	comunicados e notícias a respeito
 
 Credenciais de acesso vazadas
-troque imediatamente as senhas expostas
-ative a verificação em duas etapas nas contas que oferecem esse recurso
-caso não tenha feito
-use os mecanismos disponíveis para analisar os registros de acesso e denunciar tentativas/acessos indevidos
+	troque imediatamente as senhas expostas
+	ative a verificação em duas etapas nas contas que oferecem esse recurso
+	caso não tenha feito
+	use os mecanismos disponíveis para analisar os registros de acesso e denunciar tentativas/acessos indevidos
 
 Cartões de crédito ou débito vazados
-informe as instituições emissoras dos cartões
-revise o extrato dos seus cartões e da sua conta bancária
-conteste os eventuais lançamentos irregulares que identificar
-use os canais oficiais das respectivas instituições
+	informe as instituições emissoras dos cartões
+	revise o extrato dos seus cartões e da sua conta bancária
+	conteste os eventuais lançamentos irregulares que identificar
+	use os canais oficiais das respectivas instituições
 
 Aula 15:
 *  Fique atento ao utilizar a internet
 
 Monitore sua vida financeira e sua identidade
-ative alertas e monitore estratos
-preste atenção em movimentações estranhas
-acompanhe outros registro financeiros, por meio de serviços específicos, como o oferecido pelo Banco Central
-serviço registrato
-verifique no Cadastro Pré se alguma linha pré-paga de celular foi ativada usando seu CPF
+	ative alertas e monitore estratos
+	preste atenção em movimentações estranhas
+	acompanhe outros registro financeiros, por meio de serviços específicos, como o oferecido pelo Banco Central
+	serviço registrato
+	verifique no Cadastro Pré se alguma linha pré-paga de celular foi ativada usando seu CPF
 mantido por empresas do Setor de Telecomunicações
 busque saber mais se
-receber notificações de instituições de proteção ao crédito
-ao tentar se cadastrar em algo, foi informado que seu cadastro que já existe
+		receber notificações de instituições de proteção ao crédito
+		ao tentar se cadastrar em algo, foi informado que seu cadastro que já existe
 
 Cuide das suas contas e senhas
 
 Previna-se contra golpes
-não clique em links recebidos por email ou mensagens de texto
-não efetue transações financeiras sem antes confirmar a identidade das partes envolvidas
+	não clique em links recebidos por email ou mensagens de texto
+	não efetue transações financeiras sem antes 	confirmar a identidade das partes envolvidas
 
 Aula 16:
 *  A quem recorrer em caso de vazamento
 
 Fraude financeira
-contate as instituições envolvidas
+	contate as instituições envolvidas
 
 Furto de identidade
-registre um BO junto à autoridade policial
-para viabilizar a apuração e resguardar-se
+	registre um BO junto à autoridade policial
+	para viabilizar a apuração e resguardar-se
 
 Se comprovadamente ocorrer um vazamento envolvendo seus dados pessoais
-busque informações junto a instituição responsável
-também chamada "controladora de dados"
+	busque informações junto a instituição responsável
+	também chamada "controladora de dados"
 
-Caso sua solicitação não seja atendida ou não saiba qual instituição está envolvida
-denuncie no site da ANPD informando
-quais dados vazados
-quando teve ciência do vazamento
-quais evidências você possui
+Caso sua solicitação não seja atendida ou não saiba 	qual instituição está envolvida
+	denuncie no site da ANPD informando
+	quais dados vazados
+	quando teve ciência do vazamento
+	quais evidências você possui
 
 Não incentive vazamentos e abusos
-não compre lista de dados
-coloca todos em risco, inclusive você
-evite acessar sites e abrir arquivos que supostamente confirmem ou exibam os dados vazados
+	não compre lista de dados
+	coloca todos em risco, inclusive você
+	evite acessar sites e abrir arquivos que 	supostamente confirmem ou exibam os dados vazados
