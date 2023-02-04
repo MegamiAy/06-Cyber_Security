@@ -212,36 +212,35 @@ navegação web
 	acesso a redes sociais
 
 Principais características:
-auxílio em tarefas cotidianas
-grande quantidade de informações pessoais e profissionais
-agenda, contados, chamadas realizadas, mensagens recebidas
-conectividade
-wi-fi, 4g...
-peso e portabilidade
-leves e de tamanho reduzido
-fáceis de serem carregados em bolsas/bolsos
+	auxílio em tarefas cotidianas
+	grande quantidade de informações pessoais e profissionais
+	agenda, contados, chamadas realizadas, mensagens recebidas
+	conectividade
+	wi-fi, 4g...
+	peso e portabilidade
+	leves e de tamanho reduzido
+	fáceis de serem carregados em bolsas/bolsos
 diversas funcionalidades integradas
-GPS, câmera
+	GPS, câmera
 
 Aula 07:
 * Principais Riscos - Dispositivos Móveis
 
 Dispositivos móveis X Computadores pessoais
 funcionalidades similares
-riscos similares:
-códigos maliciosos
-phishing 
-acesso a conteúdos impróprios ou ofensivos
+	riscos similares:
+		códigos maliciosos
+		phishing 
+		acesso a conteúdos impróprios ou ofensivos
 contato com pessoas mal-intencionadas
-perda de dados
-dificuldade em manter sigilo
+		perda de dados
+		dificuldade em manter sigilo
 
 Possuem características que os tornam ainda mais atraentes para atacantes e pessoal mal-intencionadas
 
 Vazamento de informações
-grande quantidade de informações pessoais armazenadas
-rápida substituição de modelos
-sem a devida exclusão das informações gravadas
+	grande quantidade de informações pessoais armazenadas
+	rápida substituição de modelos sem a devida exclusão das informações gravadas
 
 Informações podem ser indevidamente coletadas
 mensagens SMS
