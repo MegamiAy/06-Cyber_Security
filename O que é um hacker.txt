@@ -1,0 +1,19 @@
+	White Hat Hackers - profissionais com experiência em segurança cibernética - certificados para hackear os sistemas - para identificar o nível de segurança - proteger e ajudar empresas
+
+	Black Hat Hackers - especialistas em computadores, mas com intenção maliciosa, entrar em um sistema que não são autorizados - invadir organizações, roubar informações
+
+	Gray Hat Hackers - podem trabalhar com boas ou más intenções - gostam de testar e quebrar sistemas
+
+	Script Kiddies - amadores, usam outros scripts de outros hackers, não tem o conhecimento completo do processo de hacking
+
+	Green Hat Hackers - aprendendo com outros hackers, 
+
+	Blue Hat Hackers - a intenção de aprender hacking não está presente, usado apenas para se vingar
+
+	Red Hat Hackers - parecidos com os white hacks, mas eles atuam para parar o ataque de black hats
+
+	State/Nation Sponsored Hackers - hackers nomeados pelo governo, para conseguir informações de outros governos, hackers patrocinados pelo governo ou nação
+
+	Hacktivist - pretendem invadir os sites dos governos - os dados obtidos são usados para ganho político ou social
+
+	Malicious Insider/whistleblower/denunciantes - indivíduos que trabalham em uma organização e podem expor informações confidenciais
