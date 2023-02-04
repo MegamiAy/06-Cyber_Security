@@ -373,8 +373,8 @@ Seja cuidadoso ao entrar em redes de wi-fi públicas
 desabilite a opção de conexão automática
 
 Mantinha interfaces de comunicações desativadas
-bluetooth, infravermelho e wi-fi
-somente as habilite quando necessário
+	bluetooth, infravermelho e wi-fi
+	somente as habilite quando necessário
 
 Configure o bluetooh para que o dispositivo não seja identificado ou descoberto por outros aparelhos
 
@@ -383,25 +383,22 @@ Apague todas as informações nele contidas
 Restaure as configurações de fábrica
 
 Configure-o previamente, se possível, para que:
-seja localizado/rastreado e bloqueado remotamente, por meio de serviços de geolocalização
-uma mensagem seja mostrada na tela
-para aumentar as chances dele ser devolvido
-o volume seja aumentado ou que saia do modo silencioso
-para facilitar a localização
-os dados sejam apagados após um determinado número de tentativa de bloqueio
+	seja localizado/rastreado e bloqueado remotamente, por meio de serviços de geolocalização
+	uma mensagem seja mostrada na tela
+	para aumentar as chances dele ser devolvido
+	o volume seja aumentado ou que saia do modo silencioso
+	para facilitar a localização
+	os dados sejam apagados após um determinado número de tentativa de bloqueio
 
 Informe:
-a sua operadora
-solicite o bloqueio do seu número (chip)
-a empresa onde você trabalha
+	a sua operadora
+	solicite o bloqueio do seu número (chip)
+	a empresa onde você trabalha
 caso haja dados e senhas profissionais nele armazenadas
-
 
 Altere as senhas que possam estar nele armazenadas
 
-
 Bloqueie cartões de crédito cujo número esteja nele armazenado
-
 
 Ative a localização remota, caso a tenha configurado
 se necessário, apague remotamente os dados gravados
@@ -412,20 +409,20 @@ Aula 01:
 
 Redes de relacionamentos que permitem que usuários:
 forneçam informações sobre si
-acessem informações sobre outros usuários
-utilizem mecanismos de comunicação
-se agrupem, de acordo com afinidades, características, interesses e objetivos em comum
+	acessem informações sobre outros usuários
+	utilizem mecanismos de comunicação
+	se agrupem, de acordo com afinidades, características, interesses e objetivos em comum
 
 Conteúdo totalmente gerado pelos próprios usuários
 
 Diário público
-quem você é?
-onde você está?
-o que você curte?
-quem você conhece?
-o que está acontecendo?
-o que seus amigos dizem sobre você?
-onde você tem estado?
+	quem você é?
+	onde você está?
+	o que você curte?
+	quem você conhece?
+	o que está acontecendo?
+	o que seus amigos dizem sobre você?
+	onde você tem estado?
 
 Aula 02:
 * Características das principais
