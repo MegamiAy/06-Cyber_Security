@@ -432,12 +432,12 @@ Facilidade de acesso
 Rápida velocidade de propagação de informações
 
 Grande quantidade de
-usuários
-informações pessoais
+	usuários
+	informações pessoais
 
 Dificuldade de
-exclusão de informações
-controle sobre as informações
+	exclusão de informações
+	controle sobre as informações
 
 Tempo que as informações ficam disponíveis
 
@@ -470,8 +470,8 @@ Aula 04:
 * Cuidados a serem tomados
 
 Seja cuidadoso ao elaborar as suas senhas
- use senhas longas, com diferentes tipos de caracteres
-não utilize dados pessoais, como nome, sobrenome e data
+	use senhas longas, com diferentes tipos de caracteres
+	não utilize dados pessoais, como nome, sobrenome e data
 
 Seja cuidadoso ao usar as suas senhas
 evite usar a mesma senha para acessar diferentes sites
@@ -480,39 +480,39 @@ evite usar a senha em computadores de terceiros
 Habilite notificações de login e verificação em duas etapas
 
 Se desconfiar que seu perfil foi indevidamente usado
-verifique o registro de atividades, ou
-solicite o arquivo com suas informações
+	verifique o registro de atividades, ou
+	solicite o arquivo com suas informações
 
 Evite cadastrar perguntas de segurança que possam ser facilmente descobertas
 
 Cadastre um e-mail de recuperação que você acesse regularmente
 
 Use opções como silenciar, bloquear e denunciar, caso identifique abusos, como
-imagens indevidas
-perfis falsos
-alguém o esteja incomodando
-spam
+	imagens indevidas
+	perfis falsos
+	alguém o esteja incomodando
+	spam
 
 Certifique-se de usar conexões seguras ao acessar os sites
-alguns indícios apresentados pelo navegador web são
-o endereço começa com https://
-o desenho de um "cadeado fechado" é mostrado na barra de endereço
-ao clicar sobre ele são emitidos detalhes sobre a conexão e certificado digital em uso
+	alguns indícios apresentados pelo navegador web são
+	o endereço começa com https://
+	o desenho de um "cadeado fechado" é mostrado na barra de endereço
+	ao clicar sobre ele são emitidos detalhes sobre a conexão e certificado digital em uso
 
 Aula 05:
 * Mantendo os equipametos seguros
 
 Mantenha seu computador e dispositivos móveis com
 todos os programas instalados nas versões mais recentes
-todas as atualizações aplicadas
+	todas as atualizações aplicadas
 
-Utilize e mantenha atualizados mecanismos de segurança
-antispam
-antivírus/antimalware
-firewall pessoal
+Utilize e mantenha atualizados mecanismos de 	segurança
+	antispam
+	antivírus/antimalware
+	firewall pessoal
 
 Desconfie de mensagens recebidas
-mesmo que tenham sido enviadas por conhecidos podem ter sido enviadas de contas falsas ou invadidas
+	mesmo que tenham sido enviadas por conhecidos podem ter sido enviadas de contas falsas ou invadidas
 
 Considere que você está em um local público
 
@@ -528,33 +528,34 @@ Restrinja o acesso ao seu endereço de e-mail
 Cuidado ao confirmar sua presença em eventos públicos organizados via redes sociais
 
 Seja seletivo
-ao aceitar seus contatos
-ao se associar a grupos
+	ao aceitar seus contatos
+	ao se associar a grupos
 
 Não acredite em tudo que você lê
 
 Não confie na promessa de anonimato oferecida por algumas redes sociais e aplicativos
-de acordo com as informações divulgadas é possível inferir
-a sua identidade
-a identidade de outras pessoas
+	de acordo com as informações divulgadas é possível inferir
+		a sua identidade
+		a identidade de outras pessoas
 
-Seja cuidadoso ao fornecer a sua localização
-cuidado ao divulgar fotos e vídeos
-ao observar onde foram gerados pode ser possível deduzir sua localização
-não divulgue
-planos de viagens
-por quanto tempo ficará ausente de sua residência
+Seja cuidadoso ao
+	fornecer a sua localização
+		cuidado ao divulgar fotos e vídeos
+		ao observar onde foram gerados pode ser possível deduzir sua localização
+	não divulgue
+		planos de viagens
+		por quanto tempo ficará ausente de sua residência
 
 Ao usar redes sociais baseadas em geolocalização
-faça check in
-apenas em locais movimentados
-ao sair do local, ao invés de quando chegar
+	faça check in
+	apenas em locais movimentados
+	ao sair do local, ao invés de quando chegar
 
 Evite falar sobre as ações, hábitos e rotina de outras pessoas
 
 Não divulgue, sem autorização
-imagens em que outras pessoas apareçam
-mensagens ou imagens copiadas do perfil de usuários que restrinjam o acesso
+	imagens em que outras pessoas apareçam
+	mensagens ou imagens copiadas do perfil de usuários que restrinjam o acesso
 
 Aula 06:
 * Proteja a sua vida profissional
@@ -562,8 +563,8 @@ Aula 06:
 Cuide da sua imagem profissional
 
 Ao usar redes sociais profissionais
-procure ser formal
-evite tratar de assuntos pessoais
+	procure ser formal
+	evite tratar de assuntos pessoais
 
 Antes de divulgar uma informação
 avalie se ela pode interferir
