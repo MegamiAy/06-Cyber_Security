@@ -1,0 +1,25 @@
+Termos
+
+	Vulnerabilidade - ponto fraco
+
+	Exploit - Maneira de contornar a segurança de um sistema operacional, de uma infra estrutura de rede
+
+	CVE(Common Vulnerabilities and Exposures) - dicionário de vulnerabilidades
+
+	Hack Value - valor que um hack associa a seu alvo, filtro para achar o melhor alvo para avaliar, etc…
+
+	Target of Evaluation - encontro do alvo, dispositivo que precisa de uma avaliação de segurança
+
+	Zero-Day attack - quando algo é atacado e não é feito nada para corrigir a vulnerabilidade
+
+	Daisy Chaining - usar uma máquina que não a própria para atacar um alvo (em um servidor de empresa tem uma máquina desatualizada, reivindico acesso a ela e uso para atacar outras máquinas do mesmo servidor)
+
+	Pentest - teste de invasão, identificar, destacar e testar uma rede, sistema, ambiente... para que o mais rápido possível as vulnerabilidades sejam encontradas
+
+	Engenharia Social - explorar a pessoa, para entrar na mente da pessoa e conseguir o que quer
+
+	Script - série de instruções a serem seguidas
+
+	Pwn - uma pessoa ou um sistema foi comprometido/controlado
+
+	Whistleblowers - tipo de hacker, alguém que trabalha em uma rede pública ou privada para expor informações que precisam de atenção pública
