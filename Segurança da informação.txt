@@ -244,33 +244,33 @@ Vazamento de informações
 
 Informações podem ser indevidamente coletadas
 mensagens SMS
-lista de contatos
-calendários
-histórico de chamadas
-fotos e vídeos
-senhas
-números de cartão de crédito
+	lista de contatos
+	calendários
+	histórico de chamadas
+	fotos e vídeos
+	senhas
+	números de cartão de crédito
 
 Maior possibilidade de perda e furto
-tamanho reduzido
-alto valor financeiro
-representam status
-atraem atenção de assaltantes
-constante uso
-usados em locais públicos
-esquecidos facilmente
+	tamanho reduzido
+	alto valor financeiro
+	representam status
+	atraem atenção de assaltantes
+	constante uso
+	usados em locais públicos
+	esquecidos facilmente
 
 Invasão de privacidade
-Intencional:
-dispositivos sempre à mão
-uso generalizado
-alguém pode tirar uma foto sua e publicá-la sem seu conhecimento ou permissão 
-localização fornecida por aplicativos de geolocalização (GPS)
-dados pessoais coletados por códigos maliciosos
-excesso de informações pessoais sendo fornecidas
-locais que você frequenta
-horários, rotinas, hábitos		
-bens pessoais
+	Intencional:
+		dispositivos sempre à mão
+		uso generalizado
+		alguém pode tirar uma foto sua e publicá-la sem seu conhecimento ou permissão 
+		localização fornecida por aplicativos de geolocalização (GPS)
+		dados pessoais coletados por códigos maliciosos
+		excesso de informações pessoais sendo fornecidas
+		locais que você frequenta
+		horários, rotinas, hábitos		
+		bens pessoais
 
 Instalação de aplicativos maliciosos
 grande quantidade de aplicativos sendo desenvolvidos
@@ -322,52 +322,52 @@ SMS, e-mails, redes sociais...
 Instale e mantenha atualizados
 
 Mecanismos de segurança
-antivírus
-antispam
-antimalware
-firewall pessoal
+	antivírus
+	antispam
+	antimalware
+	firewall pessoal
 
 Mantenha controle físico
-principalmente em locais de risco
-procure não deixá-los sobre a mesa
-cuidado com bolsos em ambientes públicos
+	principalmente em locais de risco
+	procure não deixá-los sobre a mesa
+	cuidado com bolsos em ambientes públicos
 
 Proteja sua privacidade
-seja cuidadoso ao:
-publicar sua geolocalização
-permitir que aplicativos acessem seus dados pessoais
-Proteja suas senhas
-cadastre senhas de acesso bem elaboradas
-se possível, configure-o para aceitar senhas complexas (alfanuméricas) 
-use senhas longas, com diferentes tipos de caracteres
-não utilize
-sequências de teclado
-dados pessoais, como nome, sobrenome e datas
-dados que possam ser facilmente obtidos sobre você
+	seja cuidadoso ao:
+		publicar sua geolocalização
+		permitir que aplicativos acessem seus dados pessoais
+	Proteja suas senhas
+		cadastre senhas de acesso bem elaboradas
+		se possível, configure-o para aceitar senhas complexas (alfanuméricas) 
+		use senhas longas, com diferentes tipos de caracteres
+	não utilize
+		sequências de teclado
+		dados pessoais, como nome, sobrenome e datas
+		dados que possam ser facilmente obtidos sobre você
 
 Proteja seus dados
-configure:
-senha de bloqueio na tela inicial
-código PIN
-faça backups periódicos
-mantenha informações sensíveis em formato criptografado
-use conexão segura quando a comunicação envolver dados confidenciais
+	configure:
+		senha de bloqueio na tela inicial
+		código PIN
+		faça backups periódicos
+		mantenha informações sensíveis em formato criptografado
+		use conexão segura quando a comunicação envolver dados confidenciais
 senhas
-números de cartões de crédito
+		números de cartões de crédito
 
 Ao instalar aplicativos
-procure obter aplicativos de fontes confiáveis
-lojas confiáveis
-site do fabricante
+	procure obter aplicativos de fontes confiáveis
+	lojas confiáveis
+	site do fabricante
 Escolha aplicativos
-bem avaliados
-com grande quantidade de usuários
+	bem avaliados
+	com grande quantidade de usuários
 
 Verifique com seu antivírus antes de instalar o aplicativo
 
 Observe as permissões para execução
-elas devem ser coerentes com a finalidade do aplicativo
-um aplicativo de jogos, por exemplo, não necessariamente precisa ter acesso a sua lista de chamadas
+	elas devem ser coerentes com a finalidade do aplicativo
+	um aplicativo de jogos, por exemplo, não necessariamente precisa ter acesso a sua lista de chamadas
 
 Seja cuidadoso ao entrar em redes de wi-fi públicas
 desabilite a opção de conexão automática
