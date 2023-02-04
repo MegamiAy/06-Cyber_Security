@@ -1013,34 +1013,33 @@ Aula 05:
 
 Avalie com cuidado as informações divulgadas
 em sua página web, rede social ou blog
-elas podem ser usada para
-atentar contra a segurança do seu computador
-atentar contra sua segurança física
+	elas podem ser usada para
+		atentar contra a segurança do seu computador
+		atentar contra sua segurança física
 aplicar golpes de engenharia social
-obter informações sobre você
+		obter informações sobre você
 
 Considere que você está em um local público
 
 Pense bem antes de divulgar algo
-não é possível voltar atrás
+	não é possível voltar atrás
 
-Divulgue a menor quantidade possível de informações, tanto de você como sobre seus amigos e familiares
-oriente-os a fazer o mesmo
+Divulgue a menor quantidade possível de informações, tanto de você como sobre seus amigos e familiares. oriente-os a fazer o mesmo
 
 Sempre que alguém solicitar dados sobre você ou preencher algum cadastro
-reflita se é realmente necessário que aquela empresa ou pessoa tenha acesso àquelas informações
+	reflita se é realmente necessário que aquela empresa ou pessoa tenha acesso àquelas informações
 
 Ao receber ofertas de emprego pela internet
-limite as informações disponibilizadas no currículo
-só forneça mais dados quando estiver  seguro de que a empresa e a oferta são legítimas
+	limite as informações disponibilizadas no currículo
+	só forneça mais dados quando estiver  seguro de que a empresa e a oferta são legítimas
 
 Fique atento a mensagens eletrônicas pelas quais alguém solicita informações pessoais, inclusive senhas
 
 Seja cuidadoso ao divulgar sua localização geográfica
-com base nelas, é possível descobrir sua rotina, deduzir informações e tentar prever seus próximos passos
+	com base nelas, é possível descobrir sua rotina, deduzir informações e tentar prever seus próximos passos
 
 Verifique a política de privacidade dos sites que você usa
-fique atento às mudanças, principalmente aquelas relacionadas ao tratamento de dados pessoais
+	fique atento às mudanças, principalmente aquelas relacionadas ao tratamento de dados pessoais
 
 Use as opções de privacidade oferecidas pelo site
 procure ser o mais restritivo possível
@@ -1065,18 +1064,17 @@ estabeleça senhas para os compartilhamentos
 compartilhe pelo tempo mínimo necessário
 
 Mantenha backups em
-locais seguros
-com acesso restrito
+	locais seguros
+	com acesso restrito
 
 Ao usar serviços de backup online
-considere a política de privacidade e de segurança do site
+	considere a política de privacidade e de segurança do site
 
 Aula 07:
 * Importância dos seus dados
 
 Dados de cadastro, biográficos, profissionais, financeiros e de navegação são apenas alguns exemplos de dados referentes a você que, diariamente
-circula por diversas redes
-são armazenados em diferentes sistemas, dispositivos e mídias
+	circula por diversas redes, são armazenados em diferentes sistemas, dispositivos e mídias
 
 
 Infelizmente, há situações em que seus dados podem ser
@@ -1102,43 +1100,40 @@ Aula 08:
 *  Como seus dados podem ser abusados
 
 O abuso de seus dados pode acarretar
-prejuízos financeiros
-restrição a direitos ou benefícios
-invasão de privacidade
+	prejuízos financeiros
+	restrição a direitos ou benefícios
+	invasão de privacidade
 
 Pode ocorrer de diversas formas
-acesso indevido
-perda de dados
-invasão de contas e golpe
-coleta excessiva
+	acesso indevido
+	perda de dados
+	invasão de contas e golpe
+	coleta excessiva
 
 Acesso indevido
-seus dados podem ser indevidamente acessados
-por aplicativo e sites
-que processem seus dados além da finalidade informada
-por atacantes ou códigos maliciosos
-que consigam acesso às suas contas, equipamentos ou mídias
-em caso de vazamento de dados
+	seus dados podem ser indevidamente acessados
+	por aplicativo e sites que processem seus dados além da finalidade informada
+	por atacantes ou códigos maliciosos que consigam acesso às suas contas, equipamentos ou mídias
+	em caso de vazamento de dados
 
 Perda de dados
-seus dados podem ser perdidos
-pela ação de códigos maliciosos, como ransomware
-pela ação de atacantes que consigam invadir seus equipamentos e mídias e venham a apagá-los
+	seus dados podem ser perdidos
+	pela ação de códigos maliciosos, como ransomware
+	pela ação de atacantes que consigam invadir seus equipamentos e mídias e venham a apagá-los
 
 Invasão de contas e golpes
-seus dados podem ser usados para
-para adivinhar suas senhas e responder perguntas de segurança
-tentativas de golpes personalizados
-phishing direcionado e personalizado (spear phishing)
-furto de identidade
-extorsão
+	seus dados podem ser usados para
+		para adivinhar suas senhas e responder perguntas de segurança
+		tentativas de golpes personalizados
+		phishing direcionado e personalizado (spear phishing)
+		furto de identidade
+		extorsão
 
 Coleta excessiva
-muitos aplicativos e site coletam dados extras sem os seu conhecimento e os utilizam para elaboração de perfis de comportamento (profiling)
+	muitos aplicativos e site coletam dados extras sem os seu conhecimento e os utilizam para elaboração de perfis de comportamento (profiling)
 seu perfil pode, então, ser usado sem o seu consentimento
-de forma discriminatória
-para fins como propagandas
-
+	de forma discriminatória
+	para fins como propagandas
 
 Aula 09:
 *  Cuidados com seus dados
@@ -1150,22 +1145,22 @@ Faça regularmente backup dos seus dados
 Programe seus backups para serem feitos automaticamente
 
 Teste periodicamente seus backups
-para ter certeza de que estão feitos corretamente
+	para ter certeza de que estão feitos corretamente
 
 Mantenha pelo menos um backup offline
 
 Arquivos
-evite colocar na nuvem arquivos contendo dados confidenciais ou que considere privados
-crie uma partição criptografada ou use outros recursos de criptografia para armazenar seus arquivos de forma segura
-seja cuidadoso ao abrir arquivos recebidos por terceiros
+	evite colocar na nuvem arquivos contendo dados confidenciais ou que considere privados
+	crie uma partição criptografada ou use outros recursos de criptografia para armazenar seus arquivos de forma segura
+	seja cuidadoso ao abrir arquivos recebidos por terceiros
 
 Criptografia - a criptografia ajuda a tornar as transmissões de dados mais seguras, detectar alterações em seus dados e impedir que sejam lidos indevidamente
 
 Use criptografia para proteger seus dados armazenados em seus equipamentos e mídias
 em caso de perda ou furto será mais difícil deles serem acessados
 
-Ative as configurações de criptografia em seus discos e mídias
-como pen drives e discos externos
+Ative as configurações de criptografia em seus 	discos e mídias
+		como pen drives e discos externos
 
 Use conexões seguras - sites com criptografia
 
