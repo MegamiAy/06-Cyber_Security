@@ -157,29 +157,27 @@ Use a opção de executar como administrador quando necessitar de privilégios a
 Mantenha a conta de convidado desabilitada
 
 Assegure-se de que:
-todas as contas de acesso existentes tenham senha
-não existam contas de uso compartilhado
+	todas as contas de acesso existentes tenham senha
+	não existam contas de uso compartilhado
 
 Ao usar o computador em locais públicos
 mantenha-o bloquado
-para evitar que seja  usado quando você não estiver por perto
+	para evitar que seja  usado quando você não estiver por perto
 
 Dicas na utilização de computadores de terceiros
-Utilize opções de navegar anonimamente
-Não efetue transações bancárias ou comerciais
-Não utilize opções como:
-lembre-se de mim
-continuar conectado
-Limpe os dados pessoais salvos no navegador
-Não permita que senhas sejam memorizadas pelo navegador (gestor de senha)
-
-Assegure-se de sair de suas contas de usuário
-
-Seja cuidadoso ao conectar mídias removíveis
+	Utilize opções de navegar anonimamente
+	Não efetue transações bancárias ou comerciais
+	Não utilize opções como:
+		lembre-se de mim
+		continuar conectado
+	Limpe os dados pessoais salvos no navegador
+	Não permita que senhas sejam memorizadas pelo navegador (gestor de senha)
+	Assegure-se de sair de suas contas de usuário
+	Seja cuidadoso ao conectar mídias removíveis
 
 Ao retornar ao seu computador:
-altere as senhas usadas
-verifique seu pendrive com um antivírus
+	altere as senhas usadas
+	verifique seu pendrive com um antivírus
 
 Faça regularmente backup dos seus dados
 
@@ -190,16 +188,15 @@ adapte-as às suas necessidades
 
 Ao compartilhar recursos do seu computador:
 estabeleça:
-senhas para os compartilhamentos
-permissões de acesso adequadas
-compartilhe seus recursos pelo tempo mínimo necessário
+	senhas para os compartilhamentos
+	permissões de acesso adequadas
+	compartilhe seus recursos pelo tempo mínimo necessário
 
 Ao enviar seu computador para serviços de manutenção:
-selecione empresas com boas referências
-pesquise na internet sobre a empresa
-á procura da opinião de clientes sobre ela
-não permita a instalação de programas não originais
-se possível, faça backup de dados antes de enviá-lo
+	selecione empresas com boas referências
+	pesquise na internet sobre a empresa á procura da opinião de clientes sobre ela
+	não permita a instalação de programas não originais
+	se possível, faça backup de dados antes de enviá-lo
 
 Aula 06:
 * Dispositivos Móveis
@@ -210,9 +207,9 @@ Cada vez mais populares
 
 Executam ações realizadas em computadores pessoais
 navegação web
-internet Banking
-acesso a e-mails
-acesso a redes sociais
+	internet Banking
+	acesso a e-mails
+	acesso a redes sociais
 
 Principais características:
 auxílio em tarefas cotidianas
