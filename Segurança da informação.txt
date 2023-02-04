@@ -67,27 +67,26 @@ Se o seu computador for comprometido você pode vir a enfrentar problemas, como:
 	perda financeiras
 
 Seu computador pode ser usado para atividades maliciosas, como:
-infectar, invadir e atacar outros computadores
-esconder a real identidade e localização de um atacante
-servir de repositório para dados fraudulentos
-aplicar golpes em outros usuários
-propagar códigos maliciosos
-disseminar spam
+	infectar, invadir e atacar outros computadores
+	esconder a real identidade e localização de um atacante
+	servir de repositório para dados fraudulentos
+	aplicar golpes em outros usuários
+	propagar códigos maliciosos
+	disseminar spam
 
 Aula 05:
 * Cuidados a serem tomados
 
 Tenha sempre as versões mais recentes dos programas
 Remova:
-as versões antigas 
-os programas que você não utiliza mais
-programas não usados tendem a:
-ser esquecidos
-ficar com versões antigas e potencialmente vulneráveis
+	as versões antigas 
+	os programas que você não utiliza mais
+	programas não usados tendem a:
+	ser esquecidos
+	ficar com versões antigas e potencialmente vulneráveis
 
 Habitue-se a verificar a existência de novas versões
-por meio de opções disponibilizadas pelos programas, ou
-acessando diretamente os sites dos fabricantes
+	por meio de opções disponibilizadas pelos programas, ou acessando diretamente os sites dos fabricantes
 
 Configure os programas para serem atualizados automaticamente
 
@@ -96,62 +95,62 @@ Programe as atualizações automáticas para serem baixadas e aplicadas em um ho
 Cheque periodicamente por novas atualizações usando as opções disponíveis nos programas
 
 Use apenas programas originais
-Ao comprar um computador pré-instalado:
-certifique-se de que os programas instalados são originais solicitando ao vendedor as licenças de uso
+	Ao comprar um computador pré-instalado:
+		certifique-se de que os programas instalados são originais solicitando ao vendedor as 		licenças de uso
 
 Ao enviar seu computador para manutenção
 não permita a instalação de programas não originais
 
 Caso deseje um programa proprietário, mas não possa adquirir a licença, procure por alternativas:
-gratuitas
-mais barata
-com funcionalidades semelhantes às desejadas
+	gratuitas
+	mais barata
+	com funcionalidades semelhantes às desejadas
 
 Aplicativos de terceiros
-verifique se as permissões de instalação e execução são coerentes
+	verifique se as permissões de instalação e execução são coerentes
 
 Seja cuidadoso ao:
-permitir que os aplicativos acessem seus dados pessoais
-selecionar os aplicativos, escolhendo aqueles:
-com grande quantidade de usuários
-bem avaliados
+	permitir que os aplicativos acessem seus dados pessoais
+	selecionar os aplicativos, escolhendo aqueles:
+		com grande quantidade de usuários
+		bem avaliados
 
 Use mecanismo de proteção
-instale um antivírus (antimalware)
-mantenha-o atualizado, incluindo o arquivo de assinaturas
-configure-o para verificar todos os formatos de arquivo
-sempre verifique os arquivos recebidos antes de abri-los ou executá-los
+	instale um antivírus (antimalware)
+	mantenha-o atualizado, incluindo o arquivo de assinaturas
+	configure-o para verificar todos os formatos de arquivo
+	sempre verifique os arquivos recebidos antes de abri-los ou executá-los
 
 Assegure-se de ter um firewall pessoal instalado e ativo
 
 Crie um disco de recuperação de seu sistema
 certifique-se de tê-lo por perto em caso de emergências
+
 Crie um disco de emergência de antivírus
 use-o se desconfiar que:
-o antivírus instalado está desabilitado ou comprometido
-o comportamento do seu computador está estranho
-gravando ou lendo o disco rígido com muita frequência
-mais lento
+	o antivírus instalado está desabilitado ou comprometido
+	o comportamento do seu computador está estranho
+		gravando ou lendo o disco rígido com muita frequência mais lento
 
 Seja cuidadoso ao clicar em links
-independente de como foram recebidos e de quem os enviou
+	independente de como foram recebidos e de quem os enviou
 
 Antes de clicar em um link curto:
-use complementos que permitam visualizar o link de destino
+	use complementos que permitam visualizar o link de destino
 
 Mensagens de conhecidos nem sempre são confiáveis
 o campo de remetente pode ter sido falsificado, ou
 podem ter sido enviadas de contas falsas ou invadidas
 
 Desabilite a auto-execução de:
-mídias removíveis
-arquivos anexados
+	mídias removíveis
+	arquivos anexados
 
 Contas e Senhas
-crie uma conta padrão e use-a nas tarefas rotineiras
-use  a conta de administrador:
-somente quando necessário
-pelo menor tempo possível
+	crie uma conta padrão e use-a nas tarefas rotineiras
+	use  a conta de administrador:
+		somente quando necessário
+		pelo menor tempo possível
 
 Use a opção de executar como administrador quando necessitar de privilégios administrativos
 
