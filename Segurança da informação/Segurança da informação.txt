@@ -78,12 +78,12 @@ Aula 05:
 * Cuidados a serem tomados
 
 Tenha sempre as versões mais recentes dos programas
-Remova:
-	as versões antigas 
-	os programas que você não utiliza mais
-	programas não usados tendem a:
-	ser esquecidos
-	ficar com versões antigas e potencialmente vulneráveis
+	Remova:
+		as versões antigas 
+		os programas que você não utiliza mais
+		programas não usados tendem a:
+		ser esquecidos
+		ficar com versões antigas e potencialmente vulneráveis
 
 Habitue-se a verificar a existência de novas versões
 	por meio de opções disponibilizadas pelos programas, ou acessando diretamente os sites dos fabricantes
@@ -273,51 +273,51 @@ Invasão de privacidade
 		bens pessoais
 
 Instalação de aplicativos maliciosos
-grande quantidade de aplicativos sendo desenvolvidos
-diferentes autores
-diferentes funcionalidades
-dificuldade de manter controle
-podem existir aplicativos:
-não confiáveis
-com erros de implementação
-especificamente desenvolvidos para
-executar atividades maliciosas
-coletar dados dos aparelhos
+	grande quantidade de aplicativos sendo desenvolvidos
+	diferentes autores
+	diferentes funcionalidades
+	dificuldade de manter controle
+	podem existir aplicativos:
+	não confiáveis
+	com erros de implementação
+	especificamente desenvolvidos para
+	executar atividades maliciosas
+	coletar dados dos aparelhos
 
 Propagação de códigos maliciosos
-códigos maliciosos podem ser recebidos por meio de:
-mensagens SMS
-e-mails
-redes sociais, etc.
-dispositivo infectado pode:
-ter os dados coletados
-ter os dados apagados
-participar de ataques na internet
-fazer parte de botnet
+	códigos maliciosos podem ser recebidos por meio de:
+		mensagens SMS
+		e-mails
+		redes sociais, etc.
+	dispositivo infectado pode:
+		ter os dados coletados
+		ter os dados apagados
+		participar de ataques na internet
+		fazer parte de botnet
 
 Aula 08:
 * Cuidados a serem tomados
 
-Observe os mecanismos de segurança disponibilizados
-diferentes modelos e fabricantes
-escolha o que considerar mais seguro
+Observe os mecanismos de segurança disponibilizados 
+	diferentes modelos e fabricantes 
+	escolha o que considerar mais seguro
 
 Caso opte por um modelo já usado
-restaure as configurações de fábrica antes de usá-lo
+	restaure as configurações de fábrica antes de usá-lo
 
 Não adquira um dispositivo:
-ilegalmente desbloqueado (jailbreak)
-com permissões de acesso alteradas
-ação ilegal
-violação dos termos de garantia
-comprometimento da segurança e do funcionamento
+	ilegalmente desbloqueado (jailbreak)
+	com permissões de acesso alteradas
+	ação ilegal
+	violação dos termos de garantia
+	comprometimento da segurança e do funcionamento
 
 Mantenha seu dispositivo seguro:
-com a versão mais recente dos programas instalados
-com todas as atualizações aplicada
+	com a versão mais recente dos programas instalados
+	com todas as atualizações aplicada
 
 Não siga links recebidos via mensagens eletrônicas
-SMS, e-mails, redes sociais...
+	SMS, e-mails, redes sociais...
 
 Instale e mantenha atualizados
 
@@ -1377,4 +1377,4 @@ Caso sua solicitação não seja atendida ou não saiba 	qual instituição est�
 Não incentive vazamentos e abusos
 	não compre lista de dados
 	coloca todos em risco, inclusive você
-	evite acessar sites e abrir arquivos que 	supostamente confirmem ou exibam os dados vazados
+	evite acessar sites e abrir arquivos que supostamente confirmem ou exibam os dados vazados
