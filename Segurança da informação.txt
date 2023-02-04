@@ -773,8 +773,8 @@ assegure-se de que todas as contas tenham senhas
 Configure seu computador para solicitar senha na tela inicial
 
 Nunca compartilhe a senha de administrador
-use-a o mínimo necessário,e 
-usando senhas bem elaboradas
+	use-a o mínimo necessário,e 
+	usando senhas bem elaboradas
 
 Dispositivos móveis
 
@@ -782,7 +782,7 @@ Cadastre uma senha de acesso bem bolada
 se possível, configure-o para aceitar senhas complexas
 
 Em caso de perda ou furto
-altere as senhas armazenadas nele
+	altere as senhas armazenadas nele
 
 Computadores de terceiros
 
@@ -793,67 +793,66 @@ Utilize opções de navegação anônima
 Evite efetuar transações bancárias e comerciais
 
 Ao retornar ao seu computador
-altere as senhas utilizadas
+	altere as senhas utilizadas
 
 Aula 13:
 * Verificação em duas etapas
 
 Também chamada de 
-two-factor authentication
-aprovação de login
-verificação ou autenticação em ou passos
+	two-factor authentication
+	aprovação de login
+	verificação ou autenticação em ou passos
 
 Recursos opcional oferecido por diversos serviços
-webmail
-redes sociais
-internet banking
-armazenamento em nuvem
+	webmail
+	redes sociais
+	internet banking
+	armazenamento em nuvem
 
 Ao ser habilitada
-permite aumentar a segurança de sua conta
-pode ser desabilitada caso não seja mais desejada
+	permite aumentar a segurança de sua conta
+	pode ser desabilitada caso não seja mais desejada
 
 Dificulta o acesso indevido de contas de usuário
 
 Para que o acesso ocorra é necessário que o atacante realize com sucesso duas etapas
-senha do usuário
-informação adicional
+	senha do usuário
+	informação adicional
 
 Segunda etapa pode envolver
-algo que apenas você sabe
-outra senha, perguntas de segurança, número PIN, alguma informação pessoal
-algo que apenas você possui
-código de verificação, cartão de senhas bancárias, token gerador de senhas, acesso a um determinado computador ou dispositivo móvel
-algo que você é 
-informações biométricas
-impressão digital, palma da mão, rosto, olho
+	algo que apenas você sabe
+	outra senha, perguntas de segurança, número PIN, alguma informação pessoal
+	algo que apenas você possui
+	código de verificação, cartão de senhas bancárias, token gerador de senhas, acesso a um determinado computador ou dispositivo móvel
+	algo que você é 
+		informações biométricas
+		impressão digital, palma da mão, rosto, olho
 
 Aula 14:
 * Cuidados com a verificação de duas etapas
 
 Código individual
-criado pelo serviço
-enviado de forma que apenas você possa recebê-lo
-e-mail
-SMS
-chamada de voz
-pode ser gerado por um aplicativo autenticador instalado no seu celular
+	criado pelo serviço
+	enviado de forma que apenas você possa recebê-lo
+	e-mail
+	SMS
+	chamada de voz
+	pode ser gerado por um aplicativo autenticador instalado no seu celular
 
 Cuidados a serem tomados
-mantenha atualizados seus dados para recebimento
-números de telefone celulares alternativos podem ser cadastrados, caso o seu principal não esteja disponível
-tenha certeza de estar de posse de seu telefone celular, caso tenha configurado
-o envio via SMS
-o uso do aplicativo autenticador
-o aplicativo autenticador deve ser usado em casos onde não  é possível receber mensagens SMS
+	mantenha atualizados seus dados para recebimento
+	números de telefone celulares alternativos podem ser cadastrados, caso o seu principal não esteja disponível
+	tenha certeza de estar de posse de seu telefone celular, caso tenha configurado
+	o envio via SMS
+	o uso do aplicativo autenticador
+	o aplicativo autenticador deve ser usado em casos onde não  é possível receber mensagens SMS
 
 Código de verificação específico
 
 Código gerado para aplicativos que não suportam a verificação em duas etapas
 
-Cuidados a serem tomados
-caso perca o acesso ao seu dispositivo móvel
-revogue os códigos específicos gerados para os acessos realizados por meio dele
+Cuidados a serem tomados caso perca o acesso ao seu dispositivo móvel
+	revogue os códigos específicos gerados para os acessos realizados por meio dele
 
 Aula 15:
 * Formas de verificação em duas etapas
@@ -861,25 +860,25 @@ Aula 15:
 Token gerador de senhas
 
 Chave eletrônica
-Tipo de dispositivo eletrônico que gera códigos usados na verificação da sua identidade
+	Tipo de dispositivo eletrônico que gera códigos usados na verificação da sua identidade
 
 Cada código é válido por um determinado período
 
 Cuidados a serem tomados
-guarde seu token em um local seguro
-nunca informe o código mostrado no token por e-mail ou telefone
-caso perca seu token ou ele seja furtado
-avise imediatamente o responsável pelo serviço no qual ele é usado
+	guarde seu token em um local seguro
+	nunca informe o código mostrado no token por e-mail ou telefone
+	caso perca seu token ou ele seja furtado
+	avise imediatamente o responsável pelo serviço no qual ele é usado
 
 Cartão de segurança
 
 Cartão com diversos códigos numerados e que são solicitados quando você acessa a sua conta
 
 Cuidados a serem tomados
-guarde seu cartão em um local seguro
-nunca forneça os códigos do cartão por e-mail ou telefone
-forneça apenas uma posição do seu cartão a cada acesso
-verifique se o número de identificação do cartão
+	guarde seu cartão em um local seguro
+	nunca forneça os códigos do cartão por e-mail ou telefone
+	forneça apenas uma posição do seu cartão a cada acesso
+	verifique se o número de identificação do cartão
 
 Aula 16:
 * Dispositivos Confiáveis
@@ -887,23 +886,22 @@ Aula 16:
 Computador ou dispositivo móvel usado para acessar suas contas
 
 No primeiro acesso
-pode ser necessário inserir um código de segurança
-ele não será necessário nos demais acessos, pois seu dispositivo será lembrado
+	pode ser necessário inserir um código de segurança
+	ele não será necessário nos demais acessos, pois seu dispositivo será lembrado
 
 Cuidados a serem tomados:
-não esqueça de excluir seus dispositivos confiáveis caso eles sejam trocados ou você perca
-
+	não esqueça de excluir seus dispositivos confiáveis caso eles sejam trocados ou você perca
 
 Lista de códigos reserva/backup
 
 Lista de códigos que devem ser usados de forma sequencial e uma única vez
 
 Cuidados a serem tomados
-anote ou imprima a lista e a mantenha em um local seguro
-não armazene em seus dispositivo confiável pois ela poderá vir a ser acessada por atacantes
-caso não esteja criptografada
-caso perca a lista ou desconfie que alguém a acessou você deve gerá-la novamente ou revogá-la
-anulando assim a anterior
+	anote ou imprima a lista e a mantenha em um local seguro
+	não armazene em seus dispositivo confiável 	pois ela poderá vir a ser acessada por atacantes
+	caso não esteja criptografada
+	caso perca a lista ou desconfie que alguém a acessou você deve gerá-la novamente ou revogá-la
+	anulando assim a anterior
 
 Chave de recuperação
 
@@ -912,9 +910,9 @@ Número gerado pelo serviço quando você ativa a verificação em duas etapas
 Permite que você acesse o serviço mesmo que perca sua senha ou seus dispositivos confiáveis
 
 Cuidados a serem tomados
-anote ou imprima...
-não a deixe no dispositivo confiável
-caso perca gere ela novamente
+	anote ou imprima...
+	não a deixe no dispositivo confiável
+	caso perca gere ela novamente
 
 Módulo 02
  
@@ -922,95 +920,93 @@ Aula 01:
 *  O que é privacidade
 
 Sua privacidade pode ser exposta na Internet
-independentemente da sua vontade
-sem aviso ou consentimento prévio, quando
+	independentemente da sua vontade
+	sem aviso ou consentimento prévio, quando
 alguém
-divulga informações sobre você
-divulga imagens onde você está presente
+	divulga informações sobre você
+	divulga imagens onde você está presente
 um site
-altera as políticas de privacidade
-coleta hábitos e preferências de navegação e repassa a terceiros
-um impostor
-criar uma conta/perfil em seu nome e a usa para se passar por você
+	altera as políticas de privacidade
+	coleta hábitos e preferências de navegação e repassa a terceiros
+	um impostor
+		criar uma conta/perfil em seu nome e a usa para se passar por você
 
-um atacante e/ou código malicioso
-acessa dados que você digita
-acessa dados armazenados em seu computador
-invade um conta sua e acessa informações restritas
-invade um computador no qual seus dados estão armazenados
-coleta informações não criptografadas que trafegam na rede
-um aplicativo instalado em seu computador/dispositivo móvel
-coleta dados pessoais e os envia ao desenvolvedor/fabricante
-você
-compartilha recursos do seu computador
+	um atacante e/ou código malicioso
+	acessa dados que você digita
+	acessa dados armazenados em seu computador
+	invade um conta sua e acessa informações restritas
+	invade um computador no qual seus dados estão armazenados
+	coleta informações não criptografadas que trafegam na rede
+	um aplicativo instalado em seu computador/dispositivo móvel coleta dados pessoais e os envia ao desenvolvedor/fabricante
+	você compartilha recursos do seu computador
 sem configurar restrições de acesso adequadas
-elaborar senhas fracas
-facilitando a invasão de suas contas
-acessar suas contas em computadores potencialmente infectados
-não mantém a segurança do seu computador/dispositivo móvel
+		elaborar senhas fracas, facilitando a invasão de suas contas
+		acessar suas contas em computadores potencialmente infectados
+		não mantém a segurança do seu computador/dispositivo móvel
 
 Aula 02:
 *  Principais riscos a sua privacidade
 
 Divulgação e coleta indevida de informações pessoais pode
-comprometer sua privacidade, dos seus amigos, dos ses familiares
-facilitar o furto da sua identidade
-quanto mais dados você divulga mais fácil é para um impostor criar uma identidade falsa e usá-la em ações maliciosas, como
-acessar sites
-efetuar transações financeiras
-enviar mensagens eletrônicas
-abrir empresas fantasma
-criar conta bancária ilegítimas
-facilitar a invasão de suas contas de usuário
-senhas e respostas dicas/perguntas de segurança podem ser adivinhadas caso usem dados pessoais
-fazer com que propagandas direcionadas sejam apresentadas
-colocar em risco sua segurança física
-favorecer o recebimento de spam
-causar
-perdas financeiras
-perdas de reputação
-falta de crédito
+	comprometer sua privacidade, dos seus amigos, dos ses familiares
+	facilitar o furto da sua identidade
+	quanto mais dados você divulga mais fácil é para um impostor criar uma identidade falsa e usá-la em ações maliciosas, como
+	acessar sites
+	efetuar transações financeiras
+	enviar mensagens eletrônicas
+	abrir empresas fantasma
+	criar conta bancária ilegítimas
+	facilitar a invasão de suas contas de usuário
+	senhas e respostas dicas/perguntas de segurança podem ser adivinhadas caso usem dados pessoais
+	fazer com que propagandas direcionadas sejam apresentadas
+	colocar em risco sua segurança física
+	favorecer o recebimento de spam
+	causar
+	perdas financeiras
+	perdas de reputação
+	falta de crédito
 
 Aula 03:
 *  Cuidados a serem tomados com email
+
 Use programas leitores de emails que permitam que as mensagens sejam criptografadas
-mensagens criptografadas somente poderão ser lidas por quem decodificá-las
+	mensagens criptografadas somente poderão ser lidas por quem decodificá-las
 
 Use conexão segura ao acessar emails via navegadores
-isso dificulta que eles sejam interceptados
+	isso dificulta que eles sejam interceptados
 
 Armazene e mails confidenciais em formato criptografado
-isso dificulta que sejam lidos por atacantes e códigos maliciosos
-você pode decodificá-los na hora de lê-los
+	isso dificulta que sejam lidos por atacantes e códigos maliciosos
+	você pode decodificá-los na hora de lê-los
 
 Use criptografia para conexões entre seu leitos de emails e os servidores de emails do ser provedor
 
 Seja cuidadosos ao acessar seu webmail
-digite a URL diretamente no navegador
-tenha cuidado ao clicar em links recebidos por meio de mensagens eletrônicas
+	digite a URL diretamente no navegador
+	tenha cuidado ao clicar em links recebidos por meio de mensagens eletrônicas
 
 Aula 04:
 *  Cuidados ao navegar na web
 
 Seja cuidadoso ao usar cookies
-use uma ou mais das seguintes opções
-defina um nível de permissão superior ou igual a "médio"
-configure para que
-os cookies sejam apagados quando o navegador for fechado
-cookies de terceiros não sejam aceitos
-você pode também configurar para que, por padrão
-os sites não possam definir cookies
-e criar listas de exceções, liberando os sites considerados confiáveis e onde o uso é realmente necessário
-os sites possam definir cookies
-e criar listas de execuções, bloqueando os sites indesejados
+	use uma ou mais das seguintes opções
+	defina um nível de permissão superior ou igual a "médio"
+	configure para que
+		os cookies sejam apagados quando o navegador for fechado
+		cookies de terceiros não sejam aceitos
+	você pode também configurar para que, por padrão
+		os sites não possam definir cookies
+		e criar listas de exceções, liberando os sites considerados confiáveis e onde o uso é realmente necessário
+		os sites possam definir cookies
+		e criar listas de execuções, bloqueando os sites indesejados
 
 Quando disponível procure utilizar
-navegação anônima
-principalmente ao usar computadores de terceiros
-informações sobre navegação não serão armazenadas
-opções que indiquem que você não quer ser  rastreado
-Do Not Track
-lista de proteção contra rastreamento
+	navegação anônima
+	principalmente ao usar computadores de terceiros
+	informações sobre navegação não serão armazenadas
+	opções que indiquem que você não quer ser  rastreado
+	Do Not Track
+	lista de proteção contra rastreamento
 
 Aula 05:
 *  Cuidados ao divulgar informações
