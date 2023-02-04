@@ -11,67 +11,60 @@ Aula 02:
 * Alguns termos
 
 Hackers: 
-white hats - técnico e ético
-grey hats - meio-a-meio
-black hats - invasão, sem ética - crackers
+	white hats - técnico e ético
+	grey hats - meio-a-meio
+	black hats - invasão, sem ética - crackers
 
-Newbies - Noob:
-Iniciantes
-
-Lammer:
-usa o que já está pronto para hackear, não consegue criar algo para hackear-crackear
+	Newbies - Noob: iniciantes
+	Lammer - usa o que já está pronto para hackear, não consegue criar algo para hackear-crackear
 
 Aula 03:
 * Computadores
 
 Computador pessoal: 
-grande quantidade de dados armazenados
-usado para acesso a:
-Internet Banking
-Comércio eletrônico
-Redes sociais, etc.
+	grande quantidade de dados armazenados usado para acesso a:
+		Internet Banking
+		Comércio eletrônico
+		Redes sociais, etc.
 
 Pode ser um grande erro acreditar que seu computador
-não apresenta atrativos
-dificilmente será localizado na Internet
+	não apresenta atrativos
+	dificilmente será localizado na Internet
 
 Sentindo-se seguro você pode acreditar que não precisa se prevenir
-a ilusão termina quando os problemas acontecem
+	a ilusão termina quando os problemas acontecem
  
 Atacantes interessados em acessar grande quantidade de computadores, independente:
-de quais são
-das configurações que possuem
+	de quais são as configurações que possuem
 
 Seu computador pode ser invadido ou infectado por meio:
-da ação direta de atacantes
-da auto-execução de mídias removíveis infectadas
-do acesso a páginas web maliciosas
-utilizando navegadores vulneráveis
-da exploração de:
-vulnerabilidades existentes nos programas intalados
-conta de usuário
-sem senha
-com senha fraca
+	da ação direta de atacantes
+	da auto-execução de mídias removíveis infectadas
+	do acesso a páginas web maliciosas
+	utilizando navegadores vulneráveis da exploração de:
+	vulnerabilidades existentes nos programas intalados
+	conta de usuário
+		sem senha
+		com senha fraca
 
 Seu computador pode ser invadido ou infectado por meio:
-da ação de códigos maliciosos
-recebidos pela rede
-obtidos:
-em anexos de mensagens eletrônicas
-em outros computadores
-em páginas web
-via mídias removíveis	
+	da ação de códigos maliciosos
+	recebidos pela rede obtidos:
+		em anexos de mensagens eletrônicas
+		em outros computadores
+		em páginas web
+		via mídias removíveis	
 
 Aula 04:
 * Riscos principais - Computadores
 
 Se o seu computador for comprometido você pode vir a enfrentar problemas, como:
-ficar sem acesso ao computador
-vazamentos de informações
-invasão de privacidade
-furto de identidade
-perda de dados
-perda financeiras
+	ficar sem acesso ao computador
+	vazamentos de informações
+	invasão de privacidade
+	furto de identidade
+	perda de dados
+	perda financeiras
 
 Seu computador pode ser usado para atividades maliciosas, como:
 infectar, invadir e atacar outros computadores
